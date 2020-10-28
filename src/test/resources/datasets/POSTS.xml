@@ -1,0 +1,1203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <POSTS ID="1" USERID="414" TEXT="Today I dressed my unicorn in preparation for the race." TIMESTAMP="2022-07-25"/>
+  <POSTS ID="2" USERID="175" TEXT="Charles ate the french fries knowing they would be his last meal." TIMESTAMP="2020-04-15"/>
+  <POSTS ID="3" USERID="632" TEXT="Her scream silenced the rowdy teenagers." TIMESTAMP="2021-08-19"/>
+  <POSTS ID="4" USERID="734" TEXT="She lived on Monkey Jungle Road and that seemed to explain all of her strangeness." TIMESTAMP="2020-04-19"/>
+  <POSTS ID="5" USERID="234" TEXT="She could hear him in the shower singing with a joy she hoped he&apos;d retain after she delivered the news." TIMESTAMP="2022-07-02"/>
+  <POSTS ID="6" USERID="346" TEXT="The minute she landed she understood the reason this was a fly-over state." TIMESTAMP="2020-06-27"/>
+  <POSTS ID="7" USERID="337" TEXT="She finally understood that grief was her love with no place for it to go." TIMESTAMP="2020-05-31"/>
+  <POSTS ID="8" USERID="131" TEXT="People keep telling me &quot;orange&quot; but I still prefer &quot;pink&quot;." TIMESTAMP="2020-10-17"/>
+  <POSTS ID="9" USERID="15" TEXT="She wanted a pet platypus but ended up getting a duck and a ferret instead." TIMESTAMP="2021-04-10"/>
+  <POSTS ID="10" USERID="631" TEXT="He swore he just saw his sushi move." TIMESTAMP="2021-01-14"/>
+  <POSTS ID="11" USERID="874" TEXT="Everyone says they love nature until they realize how dangerous she can be." TIMESTAMP="2022-02-17"/>
+  <POSTS ID="12" USERID="327" TEXT="It was her first experience training a rainbow unicorn." TIMESTAMP="2020-09-09"/>
+  <POSTS ID="13" USERID="880" TEXT="No matter how beautiful the sunset, it saddened her knowing she was one day older." TIMESTAMP="2021-04-05"/>
+  <POSTS ID="14" USERID="351" TEXT="He found his art never progressed when he literally used his sweat and tears." TIMESTAMP="2021-01-27"/>
+  <POSTS ID="15" USERID="307" TEXT="Karen realized the only way she was getting into heaven was to cheat." TIMESTAMP="2020-12-31"/>
+  <POSTS ID="16" USERID="509" TEXT="Three generations with six decades of life experience." TIMESTAMP="2021-10-24"/>
+  <POSTS ID="17" USERID="603" TEXT="Nancy was proud that she ran a tight shipwreck." TIMESTAMP="2021-06-07"/>
+  <POSTS ID="18" USERID="644" TEXT="I think I will buy the red car, or I will lease the blue one." TIMESTAMP="2020-03-16"/>
+  <POSTS ID="19" USERID="503" TEXT="All she wanted was the answer, but she had no idea how much she would hate it." TIMESTAMP="2020-02-19"/>
+  <POSTS ID="20" USERID="240" TEXT="Most shark attacks occur about 10 feet from the beach since that&apos;s where the people are." TIMESTAMP="2020-10-02"/>
+  <POSTS ID="21" USERID="907" TEXT="Traveling became almost extinct during the pandemic." TIMESTAMP="2020-03-05"/>
+  <POSTS ID="22" USERID="66" TEXT="Truth in advertising and dinosaurs with skateboards have much in common." TIMESTAMP="2020-09-05"/>
+  <POSTS ID="23" USERID="94" TEXT="Pantyhose and heels are an interesting choice of attire for the beach." TIMESTAMP="2020-09-28"/>
+  <POSTS ID="24" USERID="841" TEXT="People who insist on picking their teeth with their elbows are so annoying!" TIMESTAMP="2020-02-17"/>
+  <POSTS ID="25" USERID="834" TEXT="She works two jobs to make ends meet, at least, that was her reason for not having time to join us." TIMESTAMP="2021-12-27"/>
+  <POSTS ID="26" USERID="581" TEXT="He decided water-skiing on a frozen lake wasnвЂ™t a good idea." TIMESTAMP="2020-04-15"/>
+  <POSTS ID="27" USERID="393" TEXT="Flesh-colored yoga pants were far worse than even he feared." TIMESTAMP="2020-10-30"/>
+  <POSTS ID="28" USERID="801" TEXT="When I was little I had a car door slammed shut on my hand and I still remember it quite vividly." TIMESTAMP="2021-12-21"/>
+  <POSTS ID="29" USERID="204" TEXT="Eating eggs on Thursday for choir practice was recommended." TIMESTAMP="2021-02-16"/>
+  <POSTS ID="30" USERID="975" TEXT="He was 100% into fasting with her until he understood that meant he couldn&apos;t eat." TIMESTAMP="2021-01-14"/>
+  <POSTS ID="31" USERID="933" TEXT="Andy loved to sleep on a bed of nails." TIMESTAMP="2020-06-22"/>
+  <POSTS ID="32" USERID="412" TEXT="Sometimes, all you need to do is completely make an ass of yourself and laugh it off to realise that life isnвЂ™t so bad after all." TIMESTAMP="2021-11-12"/>
+  <POSTS ID="33" USERID="6" TEXT="He was disappointed when he found the beach to be so sandy and the sun so sunny." TIMESTAMP="2020-02-24"/>
+  <POSTS ID="34" USERID="285" TEXT="Erin accidentally created a new universe." TIMESTAMP="2021-10-26"/>
+  <POSTS ID="35" USERID="28" TEXT="They desperately needed another drummer since the current one only knew how to play bongos." TIMESTAMP="2021-06-22"/>
+  <POSTS ID="36" USERID="845" TEXT="Random words in front of other random words create a random sentence." TIMESTAMP="2022-09-16"/>
+  <POSTS ID="37" USERID="658" TEXT="The snow-covered path was no help in finding his way out of the back-country." TIMESTAMP="2021-04-24"/>
+  <POSTS ID="38" USERID="956" TEXT="She advised him to come back at once." TIMESTAMP="2020-02-15"/>
+  <POSTS ID="39" USERID="161" TEXT="Patricia loves the sound of nails strongly pressed against the chalkboard." TIMESTAMP="2022-04-26"/>
+  <POSTS ID="40" USERID="282" TEXT="He wore the surgical mask in public not to keep from catching a virus, but to keep people away from him." TIMESTAMP="2021-09-21"/>
+  <POSTS ID="41" USERID="536" TEXT="Joe made the sugar cookies, Susan decorated them." TIMESTAMP="2020-03-28"/>
+  <POSTS ID="42" USERID="924" TEXT="The fox in the tophat whispered into the ear of the rabbit." TIMESTAMP="2021-12-19"/>
+  <POSTS ID="43" USERID="436" TEXT="8% of 25 is the same as 25% of 8 and one of them is much easier to do in your head." TIMESTAMP="2022-07-01"/>
+  <POSTS ID="44" USERID="659" TEXT="When nobody is around, the trees gossip about the people who have walked under them." TIMESTAMP="2020-04-05"/>
+  <POSTS ID="45" USERID="209" TEXT="She had a difficult time owning up to her own crazy self." TIMESTAMP="2022-01-27"/>
+  <POSTS ID="46" USERID="62" TEXT="They looked up at the sky and saw a million stars." TIMESTAMP="2021-10-26"/>
+  <POSTS ID="47" USERID="296" TEXT="He was the type of guy who liked Christmas lights on his house in the middle of July." TIMESTAMP="2022-08-02"/>
+  <POSTS ID="48" USERID="442" TEXT="She can live her life however she wants as long as she listens to what I have to say." TIMESTAMP="2021-09-17"/>
+  <POSTS ID="49" USERID="414" TEXT="We need to rent a room for our party." TIMESTAMP="2021-06-15"/>
+  <POSTS ID="50" USERID="743" TEXT="He had concluded that pigs must be able to fly in Hog Heaven." TIMESTAMP="2021-11-23"/>
+  <POSTS ID="51" USERID="645" TEXT="It&apos;s difficult to understand the lengths he&apos;d go to remain short." TIMESTAMP="2021-03-08"/>
+  <POSTS ID="52" USERID="111" TEXT="All you need to do is pick up the pen and begin." TIMESTAMP="2022-08-18"/>
+  <POSTS ID="53" USERID="648" TEXT="Of course, she loves her pink bunny slippers." TIMESTAMP="2021-05-10"/>
+  <POSTS ID="54" USERID="597" TEXT="Please wait outside of the house." TIMESTAMP="2022-05-12"/>
+  <POSTS ID="55" USERID="776" TEXT="He wondered if it could be called a beach if there was no sand." TIMESTAMP="2021-07-17"/>
+  <POSTS ID="56" USERID="969" TEXT="I often see the time 11:11 or 12:34 on clocks." TIMESTAMP="2022-08-18"/>
+  <POSTS ID="57" USERID="549" TEXT="They did nothing as the raccoon attacked the ladyвЂ™s bag of food." TIMESTAMP="2022-03-27"/>
+  <POSTS ID="58" USERID="832" TEXT="I donвЂ™t respect anybody who canвЂ™t tell the difference between Pepsi and Coke." TIMESTAMP="2022-08-15"/>
+  <POSTS ID="59" USERID="524" TEXT="The toy brought back fond memories of being lost in the rain forest." TIMESTAMP="2021-12-08"/>
+  <POSTS ID="60" USERID="443" TEXT="The swirled lollipop had issues with the pop rock candy." TIMESTAMP="2021-10-04"/>
+  <POSTS ID="61" USERID="25" TEXT="The green tea and avocado smoothie turned out exactly as would be expected." TIMESTAMP="2020-09-20"/>
+  <POSTS ID="62" USERID="58" TEXT="He realized there had been several deaths on this road, but his concern rose when he saw the exact number." TIMESTAMP="2020-09-09"/>
+  <POSTS ID="63" USERID="94" TEXT="Sometimes I stare at a door or a wall and I wonder what is this reality, why am I alive, and what is this all about?" TIMESTAMP="2021-03-14"/>
+  <POSTS ID="64" USERID="31" TEXT="The tart lemonade quenched her thirst, but not her longing." TIMESTAMP="2022-08-09"/>
+  <POSTS ID="65" USERID="86" TEXT="Their argument could be heard across the parking lot." TIMESTAMP="2021-04-12"/>
+  <POSTS ID="66" USERID="44" TEXT="You&apos;re unsure whether or not to trust him, but very thankful that you wore a turtle neck." TIMESTAMP="2020-12-29"/>
+  <POSTS ID="67" USERID="207" TEXT="It was getting dark, and we werenвЂ™t there yet." TIMESTAMP="2020-12-15"/>
+  <POSTS ID="68" USERID="894" TEXT="Going from child, to childish, to childlike is only a matter of time." TIMESTAMP="2022-08-19"/>
+  <POSTS ID="69" USERID="589" TEXT="It didn&apos;t take long for Gary to detect the robbers were amateurs." TIMESTAMP="2021-05-31"/>
+  <POSTS ID="70" USERID="728" TEXT="Greetings from the galaxy MACS0647-JD, or what we call home." TIMESTAMP="2020-03-29"/>
+  <POSTS ID="71" USERID="134" TEXT="The book is in front of the table." TIMESTAMP="2020-02-09"/>
+  <POSTS ID="72" USERID="682" TEXT="She moved forward only because she trusted that the ending she now was going through must be followed by a new beginning." TIMESTAMP="2021-03-18"/>
+  <POSTS ID="73" USERID="410" TEXT="Warm beer on a cold day isn&apos;t my idea of fun." TIMESTAMP="2021-04-12"/>
+  <POSTS ID="74" USERID="659" TEXT="The pigs were insulted that they were named hamburgers." TIMESTAMP="2021-12-08"/>
+  <POSTS ID="75" USERID="154" TEXT="The ants enjoyed the barbecue more than the family." TIMESTAMP="2022-03-10"/>
+  <POSTS ID="76" USERID="137" TEXT="Now I need to ponder my existence and ask myself if I&apos;m truly real" TIMESTAMP="2022-03-19"/>
+  <POSTS ID="77" USERID="686" TEXT="Eating eggs on Thursday for choir practice was recommended." TIMESTAMP="2020-12-27"/>
+  <POSTS ID="78" USERID="196" TEXT="She found his complete dullness interesting." TIMESTAMP="2022-09-25"/>
+  <POSTS ID="79" USERID="130" TEXT="I would have gotten the promotion, but my attendance wasnвЂ™t good enough." TIMESTAMP="2021-04-17"/>
+  <POSTS ID="80" USERID="252" TEXT="He decided to fake his disappearance to avoid jail." TIMESTAMP="2022-06-08"/>
+  <POSTS ID="81" USERID="386" TEXT="The pigs were insulted that they were named hamburgers." TIMESTAMP="2021-11-10"/>
+  <POSTS ID="82" USERID="993" TEXT="The team members were hard to tell apart since they all wore their hair in a ponytail." TIMESTAMP="2021-08-18"/>
+  <POSTS ID="83" USERID="963" TEXT="When he encountered maize for the first time, he thought it incredibly corny." TIMESTAMP="2020-07-07"/>
+  <POSTS ID="84" USERID="952" TEXT="She wrote him a long letter, but he didn&apos;t read it." TIMESTAMP="2022-02-19"/>
+  <POSTS ID="85" USERID="782" TEXT="The fact that there&apos;s a stairway to heaven and a highway to hell explains life well." TIMESTAMP="2021-05-05"/>
+  <POSTS ID="86" USERID="786" TEXT="The sun had set and so had his dreams." TIMESTAMP="2020-12-19"/>
+  <POSTS ID="87" USERID="298" TEXT="The doll spun around in circles in hopes of coming alive." TIMESTAMP="2020-05-16"/>
+  <POSTS ID="88" USERID="802" TEXT="There were white out conditions in the town, subsequently, the roads were impassable." TIMESTAMP="2022-06-20"/>
+  <POSTS ID="89" USERID="711" TEXT="She had the gift of being able to paint songs." TIMESTAMP="2021-10-29"/>
+  <POSTS ID="90" USERID="671" TEXT="The Tsunami wave crashed against the raised houses and broke the pilings as if they were toothpicks." TIMESTAMP="2022-05-31"/>
+  <POSTS ID="91" USERID="838" TEXT="He was so preoccupied with whether or not he could that he failed to stop to consider if he should." TIMESTAMP="2021-03-15"/>
+  <POSTS ID="92" USERID="469" TEXT="The river stole the gods." TIMESTAMP="2021-02-16"/>
+  <POSTS ID="93" USERID="76" TEXT="It was the scarcity that fueled his creativity." TIMESTAMP="2020-10-21"/>
+  <POSTS ID="94" USERID="388" TEXT="He uses onomatopoeia as a weapon of mental destruction." TIMESTAMP="2021-11-23"/>
+  <POSTS ID="95" USERID="705" TEXT="Potato wedges probably are not best for relationships." TIMESTAMP="2020-02-22"/>
+  <POSTS ID="96" USERID="298" TEXT="Honestly, I didn&apos;t care much for the first season, so I didn&apos;t bother with the second." TIMESTAMP="2020-12-26"/>
+  <POSTS ID="97" USERID="542" TEXT="Some bathing suits just shouldnвЂ™t be worn by some people." TIMESTAMP="2021-11-29"/>
+  <POSTS ID="98" USERID="968" TEXT="The delicious aroma from the kitchen was ruined by cigarette smoke." TIMESTAMP="2020-03-12"/>
+  <POSTS ID="99" USERID="122" TEXT="The tears of a clown make my lipstick run, but my shower cap is still intact." TIMESTAMP="2022-05-25"/>
+  <POSTS ID="100" USERID="103" TEXT="Garlic ice-cream was her favorite." TIMESTAMP="2020-01-23"/>
+  <POSTS ID="101" USERID="415" TEXT="As the rental car rolled to a stop on the dark road, her fear increased by the moment." TIMESTAMP="2020-06-29"/>
+  <POSTS ID="102" USERID="61" TEXT="The lyrics of the song sounded like fingernails on a chalkboard." TIMESTAMP="2022-02-26"/>
+  <POSTS ID="103" USERID="544" TEXT="Peanuts don&apos;t grow on trees, but cashews do." TIMESTAMP="2020-11-12"/>
+  <POSTS ID="104" USERID="824" TEXT="A suit of armor provides excellent sun protection on hot days." TIMESTAMP="2021-07-19"/>
+  <POSTS ID="105" USERID="593" TEXT="As he entered the church he could hear the soft voice of someone whispering into a cell phone." TIMESTAMP="2022-09-06"/>
+  <POSTS ID="106" USERID="627" TEXT="Writing a list of random sentences is harder than I initially thought it would be." TIMESTAMP="2020-03-11"/>
+  <POSTS ID="107" USERID="630" TEXT="He found his art never progressed when he literally used his sweat and tears." TIMESTAMP="2020-12-13"/>
+  <POSTS ID="108" USERID="376" TEXT="Gary didn&apos;t understand why Doug went upstairs to get one dollar bills when he invited him to go cow tipping." TIMESTAMP="2021-04-17"/>
+  <POSTS ID="109" USERID="958" TEXT="As the years pass by, we all know owners look more and more like their dogs." TIMESTAMP="2020-12-30"/>
+  <POSTS ID="110" USERID="779" TEXT="Lucifer was surprised at the amount of life at Death Valley." TIMESTAMP="2020-12-04"/>
+  <POSTS ID="111" USERID="619" TEXT="Jeanne wished she has chosen the red button." TIMESTAMP="2020-11-15"/>
+  <POSTS ID="112" USERID="821" TEXT="Just go ahead and press that button." TIMESTAMP="2022-04-05"/>
+  <POSTS ID="113" USERID="172" TEXT="The old apple revels in its authority." TIMESTAMP="2020-03-29"/>
+  <POSTS ID="114" USERID="860" TEXT="He didn&apos;t heed the warning and it had turned out surprisingly well." TIMESTAMP="2022-02-08"/>
+  <POSTS ID="115" USERID="758" TEXT="The clouds formed beautiful animals in the sky that eventually created a tornado to wreak havoc." TIMESTAMP="2020-03-19"/>
+  <POSTS ID="116" USERID="621" TEXT="Your girlfriend bought your favorite cookie crisp cereal but forgot to get milk." TIMESTAMP="2022-09-11"/>
+  <POSTS ID="117" USERID="97" TEXT="She could hear him in the shower singing with a joy she hoped he&apos;d retain after she delivered the news." TIMESTAMP="2021-03-22"/>
+  <POSTS ID="118" USERID="299" TEXT="Don&apos;t piss in my garden and tell me you&apos;re trying to help my plants grow." TIMESTAMP="2020-06-27"/>
+  <POSTS ID="119" USERID="70" TEXT="She always had an interesting perspective on why the world must be flat." TIMESTAMP="2021-09-15"/>
+  <POSTS ID="120" USERID="152" TEXT="He figured a few sticks of dynamite were easier than a fishing pole to catch fish." TIMESTAMP="2020-05-19"/>
+  <POSTS ID="121" USERID="346" TEXT="He kept telling himself that one day it would all somehow make sense." TIMESTAMP="2020-02-23"/>
+  <POSTS ID="122" USERID="731" TEXT="Harrold felt confident that nobody would ever suspect his spy pigeon." TIMESTAMP="2020-05-26"/>
+  <POSTS ID="123" USERID="515" TEXT="She is never happy until she finds something to be unhappy about, then, she is overjoyed." TIMESTAMP="2022-09-11"/>
+  <POSTS ID="124" USERID="191" TEXT="When she didnвЂ™t like a guy who was trying to pick her up, she started using sign language." TIMESTAMP="2021-06-21"/>
+  <POSTS ID="125" USERID="499" TEXT="The thunderous roar of the jet overhead confirmed her worst fears." TIMESTAMP="2022-02-16"/>
+  <POSTS ID="126" USERID="176" TEXT="He had a vague sense that trees gave birth to dinosaurs." TIMESTAMP="2022-01-03"/>
+  <POSTS ID="127" USERID="617" TEXT="The blue parrot drove by the hitchhiking mongoose." TIMESTAMP="2022-06-20"/>
+  <POSTS ID="128" USERID="60" TEXT="She opened up her third bottle of wine of the night." TIMESTAMP="2021-08-28"/>
+  <POSTS ID="129" USERID="251" TEXT="Be careful with that butter knife." TIMESTAMP="2021-06-20"/>
+  <POSTS ID="130" USERID="799" TEXT="It turns out you don&apos;t need all that stuff you insisted you did." TIMESTAMP="2021-09-05"/>
+  <POSTS ID="131" USERID="822" TEXT="The waitress was not amused when he ordered green eggs and ham." TIMESTAMP="2021-04-09"/>
+  <POSTS ID="132" USERID="405" TEXT="His ultimate dream fantasy consisted of being content and sleeping eight hours in a row." TIMESTAMP="2020-10-10"/>
+  <POSTS ID="133" USERID="813" TEXT="The best key lime pie is still up for debate." TIMESTAMP="2020-11-26"/>
+  <POSTS ID="134" USERID="679" TEXT="The light that burns twice as bright burns half as long." TIMESTAMP="2020-09-16"/>
+  <POSTS ID="135" USERID="531" TEXT="The busker hoped that the people passing by would throw money, but they threw tomatoes instead, so he exchanged his hat for a juicer." TIMESTAMP="2021-04-10"/>
+  <POSTS ID="136" USERID="484" TEXT="The bees decided to have a mutiny against their queen." TIMESTAMP="2022-05-22"/>
+  <POSTS ID="137" USERID="769" TEXT="He used to get confused between soldiers and shoulders, but as a military man, he now soldiers responsibility." TIMESTAMP="2020-09-17"/>
+  <POSTS ID="138" USERID="765" TEXT="The wake behind the boat told of the past while the open sea for told life in the unknown future." TIMESTAMP="2022-09-15"/>
+  <POSTS ID="139" USERID="738" TEXT="The Great Dane looked more like a horse than a dog." TIMESTAMP="2020-08-28"/>
+  <POSTS ID="140" USERID="50" TEXT="He played the game as if his life depended on it and the truth was that it did." TIMESTAMP="2020-11-21"/>
+  <POSTS ID="141" USERID="447" TEXT="He wondered why at 18 he was old enough to go to war, but not old enough to buy cigarettes." TIMESTAMP="2021-04-04"/>
+  <POSTS ID="142" USERID="126" TEXT="The opportunity of a lifetime passed before him as he tried to decide between a cone or a cup." TIMESTAMP="2021-03-26"/>
+  <POSTS ID="143" USERID="490" TEXT="She traveled because it cost the same as therapy and was a lot more enjoyable." TIMESTAMP="2022-09-11"/>
+  <POSTS ID="144" USERID="885" TEXT="The lake is a long way from here." TIMESTAMP="2022-03-01"/>
+  <POSTS ID="145" USERID="343" TEXT="Shingle color was not something the couple had ever talked about." TIMESTAMP="2021-01-17"/>
+  <POSTS ID="146" USERID="50" TEXT="The light in his life was actually a fire burning all around him." TIMESTAMP="2021-08-29"/>
+  <POSTS ID="147" USERID="633" TEXT="It was the scarcity that fueled his creativity." TIMESTAMP="2021-06-05"/>
+  <POSTS ID="148" USERID="440" TEXT="If eating three-egg omelets causes weight-gain, budgie eggs are a good substitute." TIMESTAMP="2020-07-19"/>
+  <POSTS ID="149" USERID="923" TEXT="There are no heroes in a punk rock band." TIMESTAMP="2022-05-16"/>
+  <POSTS ID="150" USERID="202" TEXT="He had a wall full of masks so she could wear a different face every day." TIMESTAMP="2022-02-03"/>
+  <POSTS ID="151" USERID="462" TEXT="She felt that chill that makes the hairs on the back of your neck when he walked into the room." TIMESTAMP="2020-09-19"/>
+  <POSTS ID="152" USERID="27" TEXT="Random words in front of other random words create a random sentence." TIMESTAMP="2022-05-18"/>
+  <POSTS ID="153" USERID="917" TEXT="Peanut butter and jelly caused the elderly lady to think about her past." TIMESTAMP="2022-06-24"/>
+  <POSTS ID="154" USERID="451" TEXT="A song can make or ruin a personвЂ™s day if they let it get to them." TIMESTAMP="2020-12-10"/>
+  <POSTS ID="155" USERID="609" TEXT="Most shark attacks occur about 10 feet from the beach since that&apos;s where the people are." TIMESTAMP="2021-12-11"/>
+  <POSTS ID="156" USERID="147" TEXT="The sky is clear, the stars are twinkling." TIMESTAMP="2021-05-14"/>
+  <POSTS ID="157" USERID="445" TEXT="He found the end of the rainbow and was surprised at what he found there." TIMESTAMP="2021-06-12"/>
+  <POSTS ID="158" USERID="685" TEXT="The quick brown fox jumps over the lazy dog." TIMESTAMP="2022-03-04"/>
+  <POSTS ID="159" USERID="339" TEXT="The thick foliage and intertwined vines made the hike nearly impossible." TIMESTAMP="2020-07-27"/>
+  <POSTS ID="160" USERID="56" TEXT="The tour bus was packed with teenage girls heading toward their next adventure." TIMESTAMP="2021-05-23"/>
+  <POSTS ID="161" USERID="534" TEXT="The external scars tell only part of the story." TIMESTAMP="2022-02-26"/>
+  <POSTS ID="162" USERID="207" TEXT="All she wanted was the answer, but she had no idea how much she would hate it." TIMESTAMP="2021-03-12"/>
+  <POSTS ID="163" USERID="699" TEXT="He swore he just saw his sushi move." TIMESTAMP="2020-08-01"/>
+  <POSTS ID="164" USERID="633" TEXT="Don&apos;t piss in my garden and tell me you&apos;re trying to help my plants grow." TIMESTAMP="2020-12-29"/>
+  <POSTS ID="165" USERID="522" TEXT="He invested some skill points in Charisma and Strength." TIMESTAMP="2021-02-14"/>
+  <POSTS ID="166" USERID="1" TEXT="Pair your designer cowboy hat with scuba gear for a memorable occasion." TIMESTAMP="2020-06-24"/>
+  <POSTS ID="167" USERID="879" TEXT="He was surprised that his immense laziness was inspirational to others." TIMESTAMP="2022-02-14"/>
+  <POSTS ID="168" USERID="200" TEXT="They looked up at the sky and saw a million stars." TIMESTAMP="2020-04-02"/>
+  <POSTS ID="169" USERID="534" TEXT="Today is the day I&apos;ll finally know what brick tastes like." TIMESTAMP="2021-01-23"/>
+  <POSTS ID="170" USERID="960" TEXT="He learned the hardest lesson of his life and had the scars, both physical and mental, to prove it." TIMESTAMP="2021-12-19"/>
+  <POSTS ID="171" USERID="73" TEXT="Three years later, the coffin was still full of Jello." TIMESTAMP="2021-10-17"/>
+  <POSTS ID="172" USERID="152" TEXT="He stomped on his fruit loops and thus became a cereal killer." TIMESTAMP="2021-10-09"/>
+  <POSTS ID="173" USERID="302" TEXT="If you like tuna and tomato sauce- try combining the two. ItвЂ™s really not as bad as it sounds." TIMESTAMP="2020-12-14"/>
+  <POSTS ID="174" USERID="488" TEXT="He ended up burning his fingers poking someone else&apos;s fire." TIMESTAMP="2021-07-06"/>
+  <POSTS ID="175" USERID="281" TEXT="The fish listened intently to what the frogs had to say." TIMESTAMP="2020-12-01"/>
+  <POSTS ID="176" USERID="614" TEXT="I want more detailed information." TIMESTAMP="2021-09-27"/>
+  <POSTS ID="177" USERID="993" TEXT="The trick to getting kids to eat anything is to put catchup on it." TIMESTAMP="2022-01-07"/>
+  <POSTS ID="178" USERID="198" TEXT="I like to leave work after my eight-hour tea-break." TIMESTAMP="2020-02-10"/>
+  <POSTS ID="179" USERID="398" TEXT="Standing on one&apos;s head at job interviews forms a lasting impression." TIMESTAMP="2020-04-21"/>
+  <POSTS ID="180" USERID="695" TEXT="He enjoys practicing his ballet in the bathroom." TIMESTAMP="2020-05-22"/>
+  <POSTS ID="181" USERID="733" TEXT="Wisdom is easily acquired when hiding under the bed with a saucepan on your head." TIMESTAMP="2022-09-10"/>
+  <POSTS ID="182" USERID="455" TEXT="Plans for this weekend include turning wine into water." TIMESTAMP="2022-07-27"/>
+  <POSTS ID="183" USERID="615" TEXT="The secret ingredient to his wonderful life was crime." TIMESTAMP="2022-01-28"/>
+  <POSTS ID="184" USERID="425" TEXT="We have young kids who often walk into our room at night for various reasons including clowns in the closet." TIMESTAMP="2021-08-02"/>
+  <POSTS ID="185" USERID="944" TEXT="The golden retriever loved the fireworks each Fourth of July." TIMESTAMP="2022-08-27"/>
+  <POSTS ID="186" USERID="553" TEXT="Of course, she loves her pink bunny slippers." TIMESTAMP="2022-05-27"/>
+  <POSTS ID="187" USERID="530" TEXT="The sign said there was road work ahead so he decided to speed up." TIMESTAMP="2020-02-16"/>
+  <POSTS ID="188" USERID="695" TEXT="He didnвЂ™t want to go to the dentist, yet he went anyway." TIMESTAMP="2022-10-07"/>
+  <POSTS ID="189" USERID="694" TEXT="For oil spots on the floor, nothing beats parking a motorbike in the lounge." TIMESTAMP="2021-10-25"/>
+  <POSTS ID="190" USERID="501" TEXT="The light in his life was actually a fire burning all around him." TIMESTAMP="2021-09-11"/>
+  <POSTS ID="191" USERID="465" TEXT="While on the first date he accidentally hit his head on the beam." TIMESTAMP="2022-09-28"/>
+  <POSTS ID="192" USERID="92" TEXT="They ran around the corner to find that they had traveled back in time." TIMESTAMP="2022-03-05"/>
+  <POSTS ID="193" USERID="806" TEXT="She had that tint of craziness in her soul that made her believe she could actually make a difference." TIMESTAMP="2022-06-30"/>
+  <POSTS ID="194" USERID="569" TEXT="Car safety systems have come a long way, but he was out to prove they could be outsmarted." TIMESTAMP="2022-09-20"/>
+  <POSTS ID="195" USERID="854" TEXT="Mary realized if her calculator had a history, it would be more embarrassing than her computer browser history." TIMESTAMP="2020-11-07"/>
+  <POSTS ID="196" USERID="180" TEXT="He learned the important lesson that a picnic at the beach on a windy day is a bad idea." TIMESTAMP="2022-07-01"/>
+  <POSTS ID="197" USERID="601" TEXT="The three-year-old girl ran down the beach as the kite flew behind her." TIMESTAMP="2022-05-13"/>
+  <POSTS ID="198" USERID="226" TEXT="The newly planted trees were held up by wooden frames in hopes they could survive the next storm." TIMESTAMP="2021-09-05"/>
+  <POSTS ID="199" USERID="242" TEXT="Today I dressed my unicorn in preparation for the race." TIMESTAMP="2021-10-23"/>
+  <POSTS ID="200" USERID="620" TEXT="Sometimes you have to just give up and win by cheating." TIMESTAMP="2022-08-15"/>
+  <POSTS ID="201" USERID="427" TEXT="He is no James Bond, his name is Roger Moore." TIMESTAMP="2021-12-18"/>
+  <POSTS ID="202" USERID="228" TEXT="The beauty of the sunset was obscured by the industrial cranes." TIMESTAMP="2021-02-16"/>
+  <POSTS ID="203" USERID="934" TEXT="It was her first experience training a rainbow unicorn." TIMESTAMP="2022-06-26"/>
+  <POSTS ID="204" USERID="117" TEXT="I donвЂ™t respect anybody who canвЂ™t tell the difference between Pepsi and Coke." TIMESTAMP="2020-03-05"/>
+  <POSTS ID="205" USERID="555" TEXT="His thought process was on so many levels that he gave himself a phobia of heights." TIMESTAMP="2022-04-20"/>
+  <POSTS ID="206" USERID="348" TEXT="If I donвЂ™t like something, IвЂ™ll stay away from it." TIMESTAMP="2021-07-22"/>
+  <POSTS ID="207" USERID="180" TEXT="He kept telling himself that one day it would all somehow make sense." TIMESTAMP="2022-04-26"/>
+  <POSTS ID="208" USERID="207" TEXT="Poison ivy grew through the fence they said was impenetrable." TIMESTAMP="2020-09-10"/>
+  <POSTS ID="209" USERID="409" TEXT="There have been days when I wished to be separated from my body, but today wasnвЂ™t one of those days." TIMESTAMP="2021-10-05"/>
+  <POSTS ID="210" USERID="99" TEXT="Peanuts don&apos;t grow on trees, but cashews do." TIMESTAMP="2021-04-22"/>
+  <POSTS ID="211" USERID="728" TEXT="Traveling became almost extinct during the pandemic." TIMESTAMP="2020-06-22"/>
+  <POSTS ID="212" USERID="813" TEXT="We have a lot of rain in June." TIMESTAMP="2021-02-12"/>
+  <POSTS ID="213" USERID="99" TEXT="She finally understood that grief was her love with no place for it to go." TIMESTAMP="2021-07-04"/>
+  <POSTS ID="214" USERID="604" TEXT="She wrote him a long letter, but he didn&apos;t read it." TIMESTAMP="2020-10-16"/>
+  <POSTS ID="215" USERID="673" TEXT="Eating eggs on Thursday for choir practice was recommended." TIMESTAMP="2021-03-28"/>
+  <POSTS ID="216" USERID="400" TEXT="Be careful with that butter knife." TIMESTAMP="2020-03-16"/>
+  <POSTS ID="217" USERID="116" TEXT="A glittering gem is not enough." TIMESTAMP="2022-01-09"/>
+  <POSTS ID="218" USERID="185" TEXT="Each person who knows you has a different perception of who you are." TIMESTAMP="2021-12-29"/>
+  <POSTS ID="219" USERID="333" TEXT="Today arrived with a crash of my car through the garage door." TIMESTAMP="2022-10-04"/>
+  <POSTS ID="220" USERID="953" TEXT="He hated that he loved what she hated about hate." TIMESTAMP="2020-03-07"/>
+  <POSTS ID="221" USERID="533" TEXT="As she walked along the street and looked in the gutter, she realized facemasks had become the new cigarette butts." TIMESTAMP="2022-06-30"/>
+  <POSTS ID="222" USERID="204" TEXT="Buried deep in the snow, he hoped his batteries were fresh in his avalanche beacon." TIMESTAMP="2021-07-30"/>
+  <POSTS ID="223" USERID="761" TEXT="As she walked along the street and looked in the gutter, she realized facemasks had become the new cigarette butts." TIMESTAMP="2021-01-30"/>
+  <POSTS ID="224" USERID="130" TEXT="He decided water-skiing on a frozen lake wasnвЂ™t a good idea." TIMESTAMP="2021-11-12"/>
+  <POSTS ID="225" USERID="254" TEXT="You realize you&apos;re not alone as you sit in your bedroom massaging your calves after a long day of playing tug-of-war with Grandpa Joe in the hospital." TIMESTAMP="2020-07-05"/>
+  <POSTS ID="226" USERID="947" TEXT="The trick to getting kids to eat anything is to put catchup on it." TIMESTAMP="2022-03-12"/>
+  <POSTS ID="227" USERID="364" TEXT="He had a hidden stash underneath the floorboards in the back room of the house." TIMESTAMP="2021-02-15"/>
+  <POSTS ID="228" USERID="104" TEXT="He went on a whiskey diet and immediately lost three days." TIMESTAMP="2020-10-21"/>
+  <POSTS ID="229" USERID="331" TEXT="It&apos;s difficult to understand the lengths he&apos;d go to remain short." TIMESTAMP="2020-02-26"/>
+  <POSTS ID="230" USERID="938" TEXT="A dead duck doesn&apos;t fly backward." TIMESTAMP="2021-07-11"/>
+  <POSTS ID="231" USERID="241" TEXT="Honestly, I didn&apos;t care much for the first season, so I didn&apos;t bother with the second." TIMESTAMP="2022-04-22"/>
+  <POSTS ID="232" USERID="251" TEXT="Never underestimate the willingness of the greedy to throw you under the bus." TIMESTAMP="2021-01-14"/>
+  <POSTS ID="233" USERID="38" TEXT="I checked to make sure that he was still alive." TIMESTAMP="2020-07-28"/>
+  <POSTS ID="234" USERID="170" TEXT="Two more days and all his problems would be solved." TIMESTAMP="2021-02-21"/>
+  <POSTS ID="235" USERID="236" TEXT="He found the end of the rainbow and was surprised at what he found there." TIMESTAMP="2021-09-24"/>
+  <POSTS ID="236" USERID="467" TEXT="Carol drank the blood as if she were a vampire." TIMESTAMP="2021-08-08"/>
+  <POSTS ID="237" USERID="248" TEXT="The murder hornet was disappointed by the preconceived ideas people had of him." TIMESTAMP="2022-09-19"/>
+  <POSTS ID="238" USERID="784" TEXT="In the end, he realized he could see sound and hear words." TIMESTAMP="2022-07-05"/>
+  <POSTS ID="239" USERID="794" TEXT="IвЂ™m working on a sweet potato farm." TIMESTAMP="2022-07-18"/>
+  <POSTS ID="240" USERID="823" TEXT="He is no James Bond, his name is Roger Moore." TIMESTAMP="2022-02-28"/>
+  <POSTS ID="241" USERID="64" TEXT="I am never at home on Sundays." TIMESTAMP="2021-06-09"/>
+  <POSTS ID="242" USERID="687" TEXT="I liked their first two albums but changed my mind after that charity gig." TIMESTAMP="2020-05-08"/>
+  <POSTS ID="243" USERID="757" TEXT="I currently have 4 windows open upвЂ¦ and I donвЂ™t know why." TIMESTAMP="2021-09-20"/>
+  <POSTS ID="244" USERID="609" TEXT="I want to buy a onesieвЂ¦ but know it wonвЂ™t suit me." TIMESTAMP="2021-11-18"/>
+  <POSTS ID="245" USERID="118" TEXT="He stepped gingerly onto the bridge knowing that enchantment awaited on the other side." TIMESTAMP="2020-09-17"/>
+  <POSTS ID="246" USERID="863" TEXT="IвЂ™m a living furnace." TIMESTAMP="2021-12-09"/>
+  <POSTS ID="247" USERID="800" TEXT="Chocolate covered crickets were his favorite snack." TIMESTAMP="2022-10-14"/>
+  <POSTS ID="248" USERID="700" TEXT="It was obvious she was hot, sweaty, and tired." TIMESTAMP="2022-02-16"/>
+  <POSTS ID="249" USERID="884" TEXT="The skeleton had skeletons of his own in the closet." TIMESTAMP="2022-01-02"/>
+  <POSTS ID="250" USERID="73" TEXT="He had unknowingly taken up sleepwalking as a nighttime hobby." TIMESTAMP="2022-02-20"/>
+  <POSTS ID="251" USERID="415" TEXT="She had the gift of being able to paint songs." TIMESTAMP="2020-05-27"/>
+  <POSTS ID="252" USERID="473" TEXT="She says she has the ability to hear the soundtrack of your life." TIMESTAMP="2022-04-16"/>
+  <POSTS ID="253" USERID="697" TEXT="Mary plays the piano." TIMESTAMP="2022-06-09"/>
+  <POSTS ID="254" USERID="549" TEXT="Truth in advertising and dinosaurs with skateboards have much in common." TIMESTAMP="2021-10-14"/>
+  <POSTS ID="255" USERID="580" TEXT="A dead duck doesn&apos;t fly backward." TIMESTAMP="2021-06-09"/>
+  <POSTS ID="256" USERID="129" TEXT="Please tell me you don&apos;t work in a morgue." TIMESTAMP="2020-10-01"/>
+  <POSTS ID="257" USERID="274" TEXT="Please wait outside of the house." TIMESTAMP="2022-10-19"/>
+  <POSTS ID="258" USERID="622" TEXT="The blue parrot drove by the hitchhiking mongoose." TIMESTAMP="2021-09-21"/>
+  <POSTS ID="259" USERID="432" TEXT="It doesn&apos;t sound like that will ever be on my travel list." TIMESTAMP="2020-06-09"/>
+  <POSTS ID="260" USERID="802" TEXT="Everyone was curious about the large white blimp that appeared overnight." TIMESTAMP="2021-06-28"/>
+  <POSTS ID="261" USERID="62" TEXT="Potato wedges probably are not best for relationships." TIMESTAMP="2021-06-03"/>
+  <POSTS ID="262" USERID="760" TEXT="She was too busy always talking about what she wanted to do to actually do any of it." TIMESTAMP="2020-07-27"/>
+  <POSTS ID="263" USERID="639" TEXT="It had been sixteen days since the zombies first attacked." TIMESTAMP="2020-12-27"/>
+  <POSTS ID="264" USERID="499" TEXT="It&apos;s a skateboarding penguin with a sunhat!" TIMESTAMP="2021-01-04"/>
+  <POSTS ID="265" USERID="281" TEXT="I am counting my calories, yet I really want dessert." TIMESTAMP="2020-05-06"/>
+  <POSTS ID="266" USERID="938" TEXT="The tattered work gloves speak of the many hours of hard labor he endured throughout his life." TIMESTAMP="2020-01-17"/>
+  <POSTS ID="267" USERID="747" TEXT="It didn&apos;t take long for Gary to detect the robbers were amateurs." TIMESTAMP="2022-06-21"/>
+  <POSTS ID="268" USERID="371" TEXT="It didn&apos;t make sense unless you had the power to eat colors." TIMESTAMP="2022-09-13"/>
+  <POSTS ID="269" USERID="823" TEXT="You have every right to be angry, but that doesn&apos;t give you the right to be mean." TIMESTAMP="2020-06-28"/>
+  <POSTS ID="270" USERID="775" TEXT="If you don&apos;t like toenails, you probably shouldn&apos;t look at your feet." TIMESTAMP="2020-09-25"/>
+  <POSTS ID="271" USERID="556" TEXT="With a single flip of the coin, his life changed forever." TIMESTAMP="2021-09-25"/>
+  <POSTS ID="272" USERID="824" TEXT="She had convinced her kids that any mushroom found on the ground would kill them if they touched it." TIMESTAMP="2022-08-25"/>
+  <POSTS ID="273" USERID="448" TEXT="Dan ate the clouds like cotton candy." TIMESTAMP="2021-07-22"/>
+  <POSTS ID="274" USERID="178" TEXT="He turned in the research paper on Friday, otherwise, he would have not passed the class." TIMESTAMP="2021-09-24"/>
+  <POSTS ID="275" USERID="747" TEXT="He picked up trash in his spare time to dump in his neighbor&apos;s yard." TIMESTAMP="2022-06-09"/>
+  <POSTS ID="276" USERID="590" TEXT="It&apos;s not often you find a soggy banana on the street." TIMESTAMP="2020-08-10"/>
+  <POSTS ID="277" USERID="399" TEXT="As he entered the church he could hear the soft voice of someone whispering into a cell phone." TIMESTAMP="2021-06-17"/>
+  <POSTS ID="278" USERID="797" TEXT="There aren&apos;t enough towels in the world to stop the sewage flowing from his mouth." TIMESTAMP="2020-09-20"/>
+  <POSTS ID="279" USERID="759" TEXT="I am happy to take your donation, any amount will be greatly appreciated." TIMESTAMP="2022-01-14"/>
+  <POSTS ID="280" USERID="287" TEXT="Of course, she loves her pink bunny slippers." TIMESTAMP="2021-10-28"/>
+  <POSTS ID="281" USERID="919" TEXT="Art doesn&apos;t have to be intentional." TIMESTAMP="2021-04-30"/>
+  <POSTS ID="282" USERID="497" TEXT="He quietly entered the museum as the super bowl started." TIMESTAMP="2020-09-03"/>
+  <POSTS ID="283" USERID="721" TEXT="He picked up trash in his spare time to dump in his neighbor&apos;s yard." TIMESTAMP="2020-04-16"/>
+  <POSTS ID="284" USERID="894" TEXT="She wanted a pet platypus but ended up getting a duck and a ferret instead." TIMESTAMP="2021-08-04"/>
+  <POSTS ID="285" USERID="604" TEXT="David subscribes to the &quot;stuff your tent into the bag&quot; strategy over nicely folding it." TIMESTAMP="2022-05-20"/>
+  <POSTS ID="286" USERID="951" TEXT="He said he was not there yesterday, however, many people saw him there." TIMESTAMP="2020-05-11"/>
+  <POSTS ID="287" USERID="101" TEXT="Everybody should read Chaucer to improve their everyday vocabulary." TIMESTAMP="2020-09-02"/>
+  <POSTS ID="288" USERID="189" TEXT="Various sea birds are elegant, but nothing is as elegant as a gliding pelican." TIMESTAMP="2020-01-07"/>
+  <POSTS ID="289" USERID="111" TEXT="He had a vague sense that trees gave birth to dinosaurs." TIMESTAMP="2021-04-02"/>
+  <POSTS ID="290" USERID="950" TEXT="Writing a list of random sentences is harder than I initially thought it would be." TIMESTAMP="2020-06-14"/>
+  <POSTS ID="291" USERID="912" TEXT="A quiet house is nice until you are ordered to stay in it for months." TIMESTAMP="2022-02-16"/>
+  <POSTS ID="292" USERID="775" TEXT="There&apos;s an art to getting your way, and spitting olive pits across the table isn&apos;t it." TIMESTAMP="2020-04-07"/>
+  <POSTS ID="293" USERID="235" TEXT="He fumbled in the darkness looking for the light switch, but when he finally found it there was someone already there." TIMESTAMP="2021-03-18"/>
+  <POSTS ID="294" USERID="956" TEXT="When motorists sped in and out of traffic, all she could think of was those in need of a transplant." TIMESTAMP="2021-09-30"/>
+  <POSTS ID="295" USERID="34" TEXT="While all her friends were positive that Mary had a sixth sense, she knew she actually had a seventh sense." TIMESTAMP="2020-05-29"/>
+  <POSTS ID="296" USERID="118" TEXT="All you need to do is pick up the pen and begin." TIMESTAMP="2021-01-28"/>
+  <POSTS ID="297" USERID="447" TEXT="He set out for a short walk, but now all he could see were mangroves and water were for miles." TIMESTAMP="2021-11-12"/>
+  <POSTS ID="298" USERID="518" TEXT="He found the end of the rainbow and was surprised at what he found there." TIMESTAMP="2020-09-19"/>
+  <POSTS ID="299" USERID="513" TEXT="It was at that moment that he learned there are certain parts of the body that you should never Nair." TIMESTAMP="2022-10-03"/>
+  <POSTS ID="300" USERID="580" TEXT="Poison ivy grew through the fence they said was impenetrable." TIMESTAMP="2022-03-29"/>
+  <POSTS ID="301" USERID="143" TEXT="Grape jelly was leaking out the hole in the roof." TIMESTAMP="2020-01-28"/>
+  <POSTS ID="302" USERID="942" TEXT="It would have been a better night if the guys next to us weren&apos;t in the splash zone." TIMESTAMP="2021-12-30"/>
+  <POSTS ID="303" USERID="206" TEXT="So long and thanks for the fish." TIMESTAMP="2020-07-05"/>
+  <POSTS ID="304" USERID="745" TEXT="The group quickly understood that toxic waste was the most effective barrier to use against the zombies." TIMESTAMP="2022-04-15"/>
+  <POSTS ID="305" USERID="421" TEXT="He uses onomatopoeia as a weapon of mental destruction." TIMESTAMP="2022-07-31"/>
+  <POSTS ID="306" USERID="897" TEXT="Every manager should be able to recite at least ten nursery rhymes backward." TIMESTAMP="2021-06-12"/>
+  <POSTS ID="307" USERID="41" TEXT="Flesh-colored yoga pants were far worse than even he feared." TIMESTAMP="2021-02-04"/>
+  <POSTS ID="308" USERID="840" TEXT="She wasn&apos;t sure whether to be impressed or concerned that he folded underwear in neat little packages." TIMESTAMP="2021-10-09"/>
+  <POSTS ID="309" USERID="931" TEXT="Your girlfriend bought your favorite cookie crisp cereal but forgot to get milk." TIMESTAMP="2020-05-02"/>
+  <POSTS ID="310" USERID="722" TEXT="His ultimate dream fantasy consisted of being content and sleeping eight hours in a row." TIMESTAMP="2020-12-01"/>
+  <POSTS ID="311" USERID="654" TEXT="The busker hoped that the people passing by would throw money, but they threw tomatoes instead, so he exchanged his hat for a juicer." TIMESTAMP="2021-04-14"/>
+  <POSTS ID="312" USERID="433" TEXT="He ended up burning his fingers poking someone else&apos;s fire." TIMESTAMP="2021-08-18"/>
+  <POSTS ID="313" USERID="778" TEXT="I ate a sock because people on the Internet told me to." TIMESTAMP="2020-12-18"/>
+  <POSTS ID="314" USERID="128" TEXT="The shark-infested South Pine channel was the only way in or out." TIMESTAMP="2021-06-19"/>
+  <POSTS ID="315" USERID="421" TEXT="The efficiency we have at removing trash has made creating trash more acceptable." TIMESTAMP="2022-04-09"/>
+  <POSTS ID="316" USERID="99" TEXT="It was her first experience training a rainbow unicorn." TIMESTAMP="2021-10-18"/>
+  <POSTS ID="317" USERID="750" TEXT="The golden retriever loved the fireworks each Fourth of July." TIMESTAMP="2021-12-05"/>
+  <POSTS ID="318" USERID="838" TEXT="A song can make or ruin a personвЂ™s day if they let it get to them." TIMESTAMP="2021-07-01"/>
+  <POSTS ID="319" USERID="129" TEXT="The toy brought back fond memories of being lost in the rain forest." TIMESTAMP="2021-06-29"/>
+  <POSTS ID="320" USERID="695" TEXT="That was how he came to win $1 million." TIMESTAMP="2020-03-30"/>
+  <POSTS ID="321" USERID="441" TEXT="Iron pyrite is the most foolish of all minerals." TIMESTAMP="2020-10-20"/>
+  <POSTS ID="322" USERID="936" TEXT="Her daily goal was to improve on yesterday." TIMESTAMP="2020-09-03"/>
+  <POSTS ID="323" USERID="996" TEXT="The knives were out and she was sharpening hers." TIMESTAMP="2021-10-11"/>
+  <POSTS ID="324" USERID="532" TEXT="You bite up because of your lower jaw." TIMESTAMP="2020-04-09"/>
+  <POSTS ID="325" USERID="44" TEXT="He ended up burning his fingers poking someone else&apos;s fire." TIMESTAMP="2021-04-23"/>
+  <POSTS ID="326" USERID="32" TEXT="It took him a month to finish the meal." TIMESTAMP="2021-10-20"/>
+  <POSTS ID="327" USERID="234" TEXT="He liked to play with words in the bathtub." TIMESTAMP="2022-08-02"/>
+  <POSTS ID="328" USERID="921" TEXT="The river stole the gods." TIMESTAMP="2022-06-01"/>
+  <POSTS ID="329" USERID="181" TEXT="He kept telling himself that one day it would all somehow make sense." TIMESTAMP="2021-08-08"/>
+  <POSTS ID="330" USERID="765" TEXT="The toy brought back fond memories of being lost in the rain forest." TIMESTAMP="2022-06-29"/>
+  <POSTS ID="331" USERID="307" TEXT="It would have been a better night if the guys next to us weren&apos;t in the splash zone." TIMESTAMP="2021-08-01"/>
+  <POSTS ID="332" USERID="482" TEXT="I am my aunt&apos;s sister&apos;s daughter." TIMESTAMP="2020-08-26"/>
+  <POSTS ID="333" USERID="567" TEXT="Nobody has encountered an explosive daisy and lived to tell the tale." TIMESTAMP="2022-02-03"/>
+  <POSTS ID="334" USERID="989" TEXT="Someone I know recently combined Maple Syrup &amp; buttered Popcorn thinking it would taste like caramel popcorn. It didnвЂ™t and they donвЂ™t recommend anyone else do it either." TIMESTAMP="2020-02-20"/>
+  <POSTS ID="335" USERID="122" TEXT="The secret code they created made no sense, even to them." TIMESTAMP="2022-05-02"/>
+  <POSTS ID="336" USERID="210" TEXT="He put heat on the wound to see what would grow." TIMESTAMP="2020-09-30"/>
+  <POSTS ID="337" USERID="859" TEXT="When nobody is around, the trees gossip about the people who have walked under them." TIMESTAMP="2020-10-06"/>
+  <POSTS ID="338" USERID="952" TEXT="There was no ice cream in the freezer, nor did they have money to go to the store." TIMESTAMP="2021-06-10"/>
+  <POSTS ID="339" USERID="175" TEXT="It was the scarcity that fueled his creativity." TIMESTAMP="2022-02-21"/>
+  <POSTS ID="340" USERID="976" TEXT="Having no hair made him look even hairier." TIMESTAMP="2021-02-22"/>
+  <POSTS ID="341" USERID="143" TEXT="They did nothing as the raccoon attacked the ladyвЂ™s bag of food." TIMESTAMP="2021-01-21"/>
+  <POSTS ID="342" USERID="701" TEXT="She tilted her head back and let whip cream stream into her mouth while taking a bath." TIMESTAMP="2021-09-18"/>
+  <POSTS ID="343" USERID="169" TEXT="The river stole the gods." TIMESTAMP="2020-12-10"/>
+  <POSTS ID="344" USERID="886" TEXT="The fish dreamed of escaping the fishbowl and into the toilet where he saw his friend go." TIMESTAMP="2020-02-23"/>
+  <POSTS ID="345" USERID="628" TEXT="He learned the important lesson that a picnic at the beach on a windy day is a bad idea." TIMESTAMP="2021-02-04"/>
+  <POSTS ID="346" USERID="507" TEXT="He is good at eating pickles and telling women about his emotional problems." TIMESTAMP="2020-11-11"/>
+  <POSTS ID="347" USERID="342" TEXT="The sun had set and so had his dreams." TIMESTAMP="2021-02-27"/>
+  <POSTS ID="348" USERID="402" TEXT="In that instant, everything changed." TIMESTAMP="2020-08-16"/>
+  <POSTS ID="349" USERID="344" TEXT="He would only survive if he kept the fire going and he could hear thunder in the distance." TIMESTAMP="2020-08-14"/>
+  <POSTS ID="350" USERID="513" TEXT="She wasn&apos;t sure whether to be impressed or concerned that he folded underwear in neat little packages." TIMESTAMP="2022-01-07"/>
+  <POSTS ID="351" USERID="196" TEXT="He barked orders at his daughters but they just stared back with amusement." TIMESTAMP="2021-07-04"/>
+  <POSTS ID="352" USERID="255" TEXT="Twin 4-month-olds slept in the shade of the palm tree while the mother tanned in the sun." TIMESTAMP="2020-01-29"/>
+  <POSTS ID="353" USERID="291" TEXT="Truth in advertising and dinosaurs with skateboards have much in common." TIMESTAMP="2022-03-09"/>
+  <POSTS ID="354" USERID="748" TEXT="Peanuts don&apos;t grow on trees, but cashews do." TIMESTAMP="2020-09-22"/>
+  <POSTS ID="355" USERID="17" TEXT="He loved eating his bananas in hot dog buns." TIMESTAMP="2021-07-03"/>
+  <POSTS ID="356" USERID="48" TEXT="Even with the snow falling outside, she felt it appropriate to wear her bikini." TIMESTAMP="2022-08-07"/>
+  <POSTS ID="357" USERID="505" TEXT="He learned the important lesson that a picnic at the beach on a windy day is a bad idea." TIMESTAMP="2022-09-07"/>
+  <POSTS ID="358" USERID="719" TEXT="He found the chocolate covered roaches quite tasty." TIMESTAMP="2020-08-20"/>
+  <POSTS ID="359" USERID="457" TEXT="He went back to the video to see what had been recorded and was shocked at what he saw." TIMESTAMP="2020-01-12"/>
+  <POSTS ID="360" USERID="627" TEXT="The light that burns twice as bright burns half as long." TIMESTAMP="2020-07-11"/>
+  <POSTS ID="361" USERID="266" TEXT="They called out her name time and again, but were met with nothing but silence." TIMESTAMP="2022-04-19"/>
+  <POSTS ID="362" USERID="174" TEXT="She had a difficult time owning up to her own crazy self." TIMESTAMP="2021-04-13"/>
+  <POSTS ID="363" USERID="311" TEXT="The Japanese yen for commerce is still well-known." TIMESTAMP="2020-08-26"/>
+  <POSTS ID="364" USERID="219" TEXT="IвЂ™m a living furnace." TIMESTAMP="2021-11-15"/>
+  <POSTS ID="365" USERID="334" TEXT="Grape jelly was leaking out the hole in the roof." TIMESTAMP="2021-12-09"/>
+  <POSTS ID="366" USERID="14" TEXT="She always speaks to him in a loud voice." TIMESTAMP="2021-09-09"/>
+  <POSTS ID="367" USERID="500" TEXT="Whenever he saw a red flag warning at the beach he grabbed his surfboard." TIMESTAMP="2020-12-07"/>
+  <POSTS ID="368" USERID="980" TEXT="Wisdom is easily acquired when hiding under the bed with a saucepan on your head." TIMESTAMP="2021-07-23"/>
+  <POSTS ID="369" USERID="466" TEXT="He had accidentally hacked into his company&apos;s server." TIMESTAMP="2022-05-03"/>
+  <POSTS ID="370" USERID="358" TEXT="Combines are no longer just for farms." TIMESTAMP="2022-01-23"/>
+  <POSTS ID="371" USERID="442" TEXT="The mysterious diary records the voice." TIMESTAMP="2021-09-27"/>
+  <POSTS ID="372" USERID="908" TEXT="Nancy was proud that she ran a tight shipwreck." TIMESTAMP="2022-03-29"/>
+  <POSTS ID="373" USERID="748" TEXT="The clouds formed beautiful animals in the sky that eventually created a tornado to wreak havoc." TIMESTAMP="2021-09-03"/>
+  <POSTS ID="374" USERID="947" TEXT="Your girlfriend bought your favorite cookie crisp cereal but forgot to get milk." TIMESTAMP="2021-12-08"/>
+  <POSTS ID="375" USERID="663" TEXT="The skeleton had skeletons of his own in the closet." TIMESTAMP="2022-03-31"/>
+  <POSTS ID="376" USERID="538" TEXT="He had a wall full of masks so she could wear a different face every day." TIMESTAMP="2020-10-16"/>
+  <POSTS ID="377" USERID="238" TEXT="The group quickly understood that toxic waste was the most effective barrier to use against the zombies." TIMESTAMP="2022-01-22"/>
+  <POSTS ID="378" USERID="519" TEXT="He had a vague sense that trees gave birth to dinosaurs." TIMESTAMP="2021-02-12"/>
+  <POSTS ID="379" USERID="51" TEXT="As you consider all the possible ways to improve yourself and the world, you notice John Travolta seems fairly unhappy." TIMESTAMP="2021-04-30"/>
+  <POSTS ID="380" USERID="216" TEXT="Sometimes you have to just give up and win by cheating." TIMESTAMP="2021-07-20"/>
+  <POSTS ID="381" USERID="58" TEXT="When I cook spaghetti, I like to boil it a few minutes past al dente so the noodles are super slippery." TIMESTAMP="2022-06-30"/>
+  <POSTS ID="382" USERID="111" TEXT="Nancy was proud that she ran a tight shipwreck." TIMESTAMP="2022-01-08"/>
+  <POSTS ID="383" USERID="182" TEXT="Don&apos;t piss in my garden and tell me you&apos;re trying to help my plants grow." TIMESTAMP="2021-08-10"/>
+  <POSTS ID="384" USERID="239" TEXT="I&apos;m confused: when people ask me what&apos;s up, and I point, they groan." TIMESTAMP="2020-04-21"/>
+  <POSTS ID="385" USERID="887" TEXT="They improved dramatically once the lead singer left." TIMESTAMP="2022-07-31"/>
+  <POSTS ID="386" USERID="506" TEXT="It didn&apos;t take long for Gary to detect the robbers were amateurs." TIMESTAMP="2021-09-22"/>
+  <POSTS ID="387" USERID="661" TEXT="Everybody should read Chaucer to improve their everyday vocabulary." TIMESTAMP="2020-12-03"/>
+  <POSTS ID="388" USERID="670" TEXT="This is the last random sentence I will be writing and I am going to stop mid-sent" TIMESTAMP="2022-05-19"/>
+  <POSTS ID="389" USERID="968" TEXT="Carol drank the blood as if she were a vampire." TIMESTAMP="2022-02-13"/>
+  <POSTS ID="390" USERID="643" TEXT="Nobody has encountered an explosive daisy and lived to tell the tale." TIMESTAMP="2020-12-26"/>
+  <POSTS ID="391" USERID="561" TEXT="It took him a while to realize that everything he decided not to change, he was actually choosing." TIMESTAMP="2022-04-23"/>
+  <POSTS ID="392" USERID="842" TEXT="Abstraction is often one floor above you." TIMESTAMP="2021-05-20"/>
+  <POSTS ID="393" USERID="780" TEXT="The lake is a long way from here." TIMESTAMP="2021-02-26"/>
+  <POSTS ID="394" USERID="619" TEXT="I covered my friend in baby oil." TIMESTAMP="2020-04-15"/>
+  <POSTS ID="395" USERID="706" TEXT="She used her own hair in the soup to give it more flavor." TIMESTAMP="2020-02-14"/>
+  <POSTS ID="396" USERID="25" TEXT="She saw the brake lights, but not in time." TIMESTAMP="2021-06-18"/>
+  <POSTS ID="397" USERID="295" TEXT="She lived on Monkey Jungle Road and that seemed to explain all of her strangeness." TIMESTAMP="2021-11-22"/>
+  <POSTS ID="398" USERID="995" TEXT="They desperately needed another drummer since the current one only knew how to play bongos." TIMESTAMP="2021-12-01"/>
+  <POSTS ID="399" USERID="935" TEXT="In hopes of finding out the truth, he entered the one-room library." TIMESTAMP="2020-10-30"/>
+  <POSTS ID="400" USERID="244" TEXT="They got there early, and they got really good seats." TIMESTAMP="2020-05-22"/>
+  <POSTS ID="401" USERID="878" TEXT="I want more detailed information." TIMESTAMP="2022-02-23"/>
+  <POSTS ID="402" USERID="327" TEXT="As the rental car rolled to a stop on the dark road, her fear increased by the moment." TIMESTAMP="2020-06-24"/>
+  <POSTS ID="403" USERID="598" TEXT="I come from a tribe of head-hunters, so I will never need a shrink." TIMESTAMP="2020-09-03"/>
+  <POSTS ID="404" USERID="328" TEXT="Most shark attacks occur about 10 feet from the beach since that&apos;s where the people are." TIMESTAMP="2020-11-11"/>
+  <POSTS ID="405" USERID="530" TEXT="People generally approve of dogs eating cat food but not cats eating dog food." TIMESTAMP="2022-08-09"/>
+  <POSTS ID="406" USERID="106" TEXT="It took him a month to finish the meal." TIMESTAMP="2020-06-06"/>
+  <POSTS ID="407" USERID="137" TEXT="Mary realized if her calculator had a history, it would be more embarrassing than her computer browser history." TIMESTAMP="2021-10-18"/>
+  <POSTS ID="408" USERID="170" TEXT="It took him a month to finish the meal." TIMESTAMP="2020-10-14"/>
+  <POSTS ID="409" USERID="594" TEXT="The fact that there&apos;s a stairway to heaven and a highway to hell explains life well." TIMESTAMP="2020-09-21"/>
+  <POSTS ID="410" USERID="990" TEXT="Her scream silenced the rowdy teenagers." TIMESTAMP="2020-06-11"/>
+  <POSTS ID="411" USERID="684" TEXT="A purple pig and a green donkey flew a kite in the middle of the night and ended up sunburnt." TIMESTAMP="2022-01-30"/>
+  <POSTS ID="412" USERID="795" TEXT="There was coal in his stocking and he was thrilled." TIMESTAMP="2021-11-02"/>
+  <POSTS ID="413" USERID="887" TEXT="He decided to live his life by the big beats manifesto." TIMESTAMP="2022-01-19"/>
+  <POSTS ID="414" USERID="612" TEXT="Blue sounded too cold at the time and yet it seemed to work for gin." TIMESTAMP="2022-10-11"/>
+  <POSTS ID="415" USERID="17" TEXT="He swore he just saw his sushi move." TIMESTAMP="2022-07-08"/>
+  <POSTS ID="416" USERID="753" TEXT="I love eating toasted cheese and tuna sandwiches." TIMESTAMP="2022-05-02"/>
+  <POSTS ID="417" USERID="868" TEXT="He stomped on his fruit loops and thus became a cereal killer." TIMESTAMP="2020-10-18"/>
+  <POSTS ID="418" USERID="315" TEXT="You have every right to be angry, but that doesn&apos;t give you the right to be mean." TIMESTAMP="2022-09-20"/>
+  <POSTS ID="419" USERID="184" TEXT="We have a lot of rain in June." TIMESTAMP="2021-01-09"/>
+  <POSTS ID="420" USERID="855" TEXT="Fluffy pink unicorns are a popular status symbol among macho men." TIMESTAMP="2020-01-13"/>
+  <POSTS ID="421" USERID="494" TEXT="Erin accidentally created a new universe." TIMESTAMP="2020-05-30"/>
+  <POSTS ID="422" USERID="464" TEXT="She had some amazing news to share but nobody to share it with." TIMESTAMP="2022-04-23"/>
+  <POSTS ID="423" USERID="744" TEXT="They throw cabbage that turns your brain into emotional baggage." TIMESTAMP="2020-01-20"/>
+  <POSTS ID="424" USERID="28" TEXT="When he encountered maize for the first time, he thought it incredibly corny." TIMESTAMP="2020-02-18"/>
+  <POSTS ID="425" USERID="370" TEXT="Three generations with six decades of life experience." TIMESTAMP="2020-01-22"/>
+  <POSTS ID="426" USERID="699" TEXT="No matter how beautiful the sunset, it saddened her knowing she was one day older." TIMESTAMP="2022-06-18"/>
+  <POSTS ID="427" USERID="190" TEXT="At that moment she realized she had a sixth sense." TIMESTAMP="2021-10-07"/>
+  <POSTS ID="428" USERID="167" TEXT="Two seats were vacant." TIMESTAMP="2022-08-14"/>
+  <POSTS ID="429" USERID="384" TEXT="Lets all be unique together until we realise we are all the same." TIMESTAMP="2020-09-01"/>
+  <POSTS ID="430" USERID="161" TEXT="Tomorrow will bring something new, so leave today as a memory." TIMESTAMP="2020-12-25"/>
+  <POSTS ID="431" USERID="394" TEXT="People who insist on picking their teeth with their elbows are so annoying!" TIMESTAMP="2021-02-14"/>
+  <POSTS ID="432" USERID="806" TEXT="Excitement replaced fear until the final moment." TIMESTAMP="2020-07-15"/>
+  <POSTS ID="433" USERID="741" TEXT="She lived on Monkey Jungle Road and that seemed to explain all of her strangeness." TIMESTAMP="2021-08-21"/>
+  <POSTS ID="434" USERID="23" TEXT="He decided that the time had come to be stronger than any of the excuses he&apos;d used until then." TIMESTAMP="2022-05-21"/>
+  <POSTS ID="435" USERID="761" TEXT="The fifty mannequin heads floating in the pool kind of freaked them out." TIMESTAMP="2021-03-06"/>
+  <POSTS ID="436" USERID="49" TEXT="Joyce enjoyed eating pancakes with ketchup." TIMESTAMP="2020-12-31"/>
+  <POSTS ID="437" USERID="339" TEXT="He fumbled in the darkness looking for the light switch, but when he finally found it there was someone already there." TIMESTAMP="2021-08-25"/>
+  <POSTS ID="438" USERID="288" TEXT="He shaved the peach to prove a point." TIMESTAMP="2022-09-16"/>
+  <POSTS ID="439" USERID="674" TEXT="There were white out conditions in the town, subsequently, the roads were impassable." TIMESTAMP="2020-10-08"/>
+  <POSTS ID="440" USERID="82" TEXT="It took him a month to finish the meal." TIMESTAMP="2020-03-24"/>
+  <POSTS ID="441" USERID="213" TEXT="He played the game as if his life depended on it and the truth was that it did." TIMESTAMP="2020-06-13"/>
+  <POSTS ID="442" USERID="763" TEXT="They desperately needed another drummer since the current one only knew how to play bongos." TIMESTAMP="2020-07-06"/>
+  <POSTS ID="443" USERID="955" TEXT="The light in his life was actually a fire burning all around him." TIMESTAMP="2022-10-12"/>
+  <POSTS ID="444" USERID="20" TEXT="He barked orders at his daughters but they just stared back with amusement." TIMESTAMP="2021-12-28"/>
+  <POSTS ID="445" USERID="835" TEXT="There have been days when I wished to be separated from my body, but today wasnвЂ™t one of those days." TIMESTAMP="2022-01-21"/>
+  <POSTS ID="446" USERID="93" TEXT="He&apos;s in a boy band which doesn&apos;t make much sense for a snake." TIMESTAMP="2020-09-02"/>
+  <POSTS ID="447" USERID="796" TEXT="Gary didn&apos;t understand why Doug went upstairs to get one dollar bills when he invited him to go cow tipping." TIMESTAMP="2020-01-21"/>
+  <POSTS ID="448" USERID="341" TEXT="After exploring the abandoned building, he started to believe in ghosts." TIMESTAMP="2022-04-03"/>
+  <POSTS ID="449" USERID="854" TEXT="She cried diamonds." TIMESTAMP="2022-08-27"/>
+  <POSTS ID="450" USERID="311" TEXT="They looked up at the sky and saw a million stars." TIMESTAMP="2020-11-23"/>
+  <POSTS ID="451" USERID="611" TEXT="He watched the dancing piglets with panda bear tummies in the swimming pool." TIMESTAMP="2022-05-22"/>
+  <POSTS ID="452" USERID="970" TEXT="Twin 4-month-olds slept in the shade of the palm tree while the mother tanned in the sun." TIMESTAMP="2022-07-17"/>
+  <POSTS ID="453" USERID="148" TEXT="The tortoise jumped into the lake with dreams of becoming a sea turtle." TIMESTAMP="2020-02-25"/>
+  <POSTS ID="454" USERID="253" TEXT="He hated that he loved what she hated about hate." TIMESTAMP="2020-12-09"/>
+  <POSTS ID="455" USERID="106" TEXT="The pigs were insulted that they were named hamburgers." TIMESTAMP="2021-08-19"/>
+  <POSTS ID="456" USERID="378" TEXT="The door slammed on the watermelon." TIMESTAMP="2021-07-17"/>
+  <POSTS ID="457" USERID="848" TEXT="Please tell me you don&apos;t work in a morgue." TIMESTAMP="2020-05-23"/>
+  <POSTS ID="458" USERID="865" TEXT="She hadn&apos;t had her cup of coffee, and that made things all the worse." TIMESTAMP="2020-11-26"/>
+  <POSTS ID="459" USERID="819" TEXT="I often see the time 11:11 or 12:34 on clocks." TIMESTAMP="2020-04-18"/>
+  <POSTS ID="460" USERID="607" TEXT="The virus had powers none of us knew existed." TIMESTAMP="2022-01-04"/>
+  <POSTS ID="461" USERID="338" TEXT="The secret ingredient to his wonderful life was crime." TIMESTAMP="2022-02-03"/>
+  <POSTS ID="462" USERID="158" TEXT="A dead duck doesn&apos;t fly backward." TIMESTAMP="2020-04-25"/>
+  <POSTS ID="463" USERID="657" TEXT="Giving directions that the mountains are to the west only works when you can see them." TIMESTAMP="2022-09-11"/>
+  <POSTS ID="464" USERID="562" TEXT="Andy loved to sleep on a bed of nails." TIMESTAMP="2022-03-01"/>
+  <POSTS ID="465" USERID="303" TEXT="His mind was blown that there was nothing in space except space itself." TIMESTAMP="2020-10-15"/>
+  <POSTS ID="466" USERID="644" TEXT="The memory we used to share is no longer coherent." TIMESTAMP="2021-09-28"/>
+  <POSTS ID="467" USERID="725" TEXT="Love is not like pizza." TIMESTAMP="2022-09-18"/>
+  <POSTS ID="468" USERID="138" TEXT="It was getting dark, and we werenвЂ™t there yet." TIMESTAMP="2020-12-07"/>
+  <POSTS ID="469" USERID="33" TEXT="Choosing to do nothing is still a choice, after all." TIMESTAMP="2021-06-26"/>
+  <POSTS ID="470" USERID="345" TEXT="The book is in front of the table." TIMESTAMP="2022-03-09"/>
+  <POSTS ID="471" USERID="308" TEXT="She was too short to see over the fence." TIMESTAMP="2020-11-18"/>
+  <POSTS ID="472" USERID="398" TEXT="Sometimes, all you need to do is completely make an ass of yourself and laugh it off to realise that life isnвЂ™t so bad after all." TIMESTAMP="2021-07-12"/>
+  <POSTS ID="473" USERID="640" TEXT="They ran around the corner to find that they had traveled back in time." TIMESTAMP="2020-04-25"/>
+  <POSTS ID="474" USERID="632" TEXT="Warm beer on a cold day isn&apos;t my idea of fun." TIMESTAMP="2021-11-21"/>
+  <POSTS ID="475" USERID="751" TEXT="Tomorrow will bring something new, so leave today as a memory." TIMESTAMP="2021-11-25"/>
+  <POSTS ID="476" USERID="892" TEXT="It&apos;s much more difficult to play tennis with a bowling ball than it is to bowl with a tennis ball." TIMESTAMP="2020-11-13"/>
+  <POSTS ID="477" USERID="870" TEXT="Everyone says they love nature until they realize how dangerous she can be." TIMESTAMP="2022-09-30"/>
+  <POSTS ID="478" USERID="659" TEXT="Warm beer on a cold day isn&apos;t my idea of fun." TIMESTAMP="2021-07-12"/>
+  <POSTS ID="479" USERID="567" TEXT="Pair your designer cowboy hat with scuba gear for a memorable occasion." TIMESTAMP="2021-06-10"/>
+  <POSTS ID="480" USERID="519" TEXT="You can&apos;t compare apples and oranges, but what about bananas and plantains?" TIMESTAMP="2022-03-27"/>
+  <POSTS ID="481" USERID="761" TEXT="It was getting dark, and we werenвЂ™t there yet." TIMESTAMP="2020-07-03"/>
+  <POSTS ID="482" USERID="108" TEXT="He decided to fake his disappearance to avoid jail." TIMESTAMP="2020-10-14"/>
+  <POSTS ID="483" USERID="52" TEXT="8% of 25 is the same as 25% of 8 and one of them is much easier to do in your head." TIMESTAMP="2021-03-19"/>
+  <POSTS ID="484" USERID="711" TEXT="No matter how beautiful the sunset, it saddened her knowing she was one day older." TIMESTAMP="2021-04-20"/>
+  <POSTS ID="485" USERID="198" TEXT="Sometimes I stare at a door or a wall and I wonder what is this reality, why am I alive, and what is this all about?" TIMESTAMP="2022-09-04"/>
+  <POSTS ID="486" USERID="66" TEXT="Tom got a small piece of pie." TIMESTAMP="2020-02-17"/>
+  <POSTS ID="487" USERID="838" TEXT="Car safety systems have come a long way, but he was out to prove they could be outsmarted." TIMESTAMP="2021-06-15"/>
+  <POSTS ID="488" USERID="486" TEXT="Separation anxiety is what happens when you can&apos;t find your phone." TIMESTAMP="2020-07-28"/>
+  <POSTS ID="489" USERID="599" TEXT="He was surprised that his immense laziness was inspirational to others." TIMESTAMP="2020-01-17"/>
+  <POSTS ID="490" USERID="97" TEXT="Let me help you with your baggage." TIMESTAMP="2022-09-16"/>
+  <POSTS ID="491" USERID="261" TEXT="There were white out conditions in the town, subsequently, the roads were impassable." TIMESTAMP="2021-08-30"/>
+  <POSTS ID="492" USERID="88" TEXT="She had a habit of taking showers in lemonade." TIMESTAMP="2022-02-24"/>
+  <POSTS ID="493" USERID="801" TEXT="The clouds formed beautiful animals in the sky that eventually created a tornado to wreak havoc." TIMESTAMP="2022-01-08"/>
+  <POSTS ID="494" USERID="34" TEXT="Pat ordered a ghost pepper pie." TIMESTAMP="2021-05-17"/>
+  <POSTS ID="495" USERID="843" TEXT="You realize you&apos;re not alone as you sit in your bedroom massaging your calves after a long day of playing tug-of-war with Grandpa Joe in the hospital." TIMESTAMP="2022-01-18"/>
+  <POSTS ID="496" USERID="398" TEXT="A kangaroo is really just a rabbit on steroids." TIMESTAMP="2022-02-06"/>
+  <POSTS ID="497" USERID="154" TEXT="Honestly, I didn&apos;t care much for the first season, so I didn&apos;t bother with the second." TIMESTAMP="2021-07-09"/>
+  <POSTS ID="498" USERID="830" TEXT="Joyce enjoyed eating pancakes with ketchup." TIMESTAMP="2022-01-29"/>
+  <POSTS ID="499" USERID="626" TEXT="They looked up at the sky and saw a million stars." TIMESTAMP="2020-07-28"/>
+  <POSTS ID="500" USERID="577" TEXT="Three generations with six decades of life experience." TIMESTAMP="2020-05-12"/>
+  <POSTS ID="501" USERID="162" TEXT="Malls are great places to shop, I can find everything I need under one roof." TIMESTAMP="2021-01-01"/>
+  <POSTS ID="502" USERID="264" TEXT="He had a hidden stash underneath the floorboards in the back room of the house." TIMESTAMP="2020-03-29"/>
+  <POSTS ID="503" USERID="108" TEXT="He was the type of guy who liked Christmas lights on his house in the middle of July." TIMESTAMP="2020-04-17"/>
+  <POSTS ID="504" USERID="883" TEXT="The tree fell unexpectedly short." TIMESTAMP="2021-01-29"/>
+  <POSTS ID="505" USERID="56" TEXT="The lyrics of the song sounded like fingernails on a chalkboard." TIMESTAMP="2022-06-24"/>
+  <POSTS ID="506" USERID="908" TEXT="Garlic ice-cream was her favorite." TIMESTAMP="2020-03-02"/>
+  <POSTS ID="507" USERID="268" TEXT="When she didnвЂ™t like a guy who was trying to pick her up, she started using sign language." TIMESTAMP="2020-01-23"/>
+  <POSTS ID="508" USERID="550" TEXT="The stranger officiates the meal." TIMESTAMP="2022-09-15"/>
+  <POSTS ID="509" USERID="930" TEXT="He had a hidden stash underneath the floorboards in the back room of the house." TIMESTAMP="2022-04-29"/>
+  <POSTS ID="510" USERID="731" TEXT="Swim at your own risk was taken as a challenge for the group of Kansas City college students." TIMESTAMP="2021-04-08"/>
+  <POSTS ID="511" USERID="278" TEXT="The gloves protect my feet from excess work." TIMESTAMP="2020-06-04"/>
+  <POSTS ID="512" USERID="825" TEXT="Writing a list of random sentences is harder than I initially thought it would be." TIMESTAMP="2020-01-15"/>
+  <POSTS ID="513" USERID="155" TEXT="She wore green lipstick like a fashion icon." TIMESTAMP="2021-05-06"/>
+  <POSTS ID="514" USERID="779" TEXT="To the surprise of everyone, the Rapture happened yesterday but it didn&apos;t quite go as expected." TIMESTAMP="2020-01-09"/>
+  <POSTS ID="515" USERID="791" TEXT="He found his art never progressed when he literally used his sweat and tears." TIMESTAMP="2021-10-09"/>
+  <POSTS ID="516" USERID="698" TEXT="He appeared to be confusingly perplexed." TIMESTAMP="2021-12-23"/>
+  <POSTS ID="517" USERID="582" TEXT="Abstraction is often one floor above you." TIMESTAMP="2022-06-04"/>
+  <POSTS ID="518" USERID="546" TEXT="I&apos;m confused: when people ask me what&apos;s up, and I point, they groan." TIMESTAMP="2020-01-28"/>
+  <POSTS ID="519" USERID="542" TEXT="The book is in front of the table." TIMESTAMP="2021-04-12"/>
+  <POSTS ID="520" USERID="3" TEXT="Everyone says they love nature until they realize how dangerous she can be." TIMESTAMP="2021-04-04"/>
+  <POSTS ID="521" USERID="63" TEXT="I think I will buy the red car, or I will lease the blue one." TIMESTAMP="2020-08-08"/>
+  <POSTS ID="522" USERID="19" TEXT="His ultimate dream fantasy consisted of being content and sleeping eight hours in a row." TIMESTAMP="2021-04-25"/>
+  <POSTS ID="523" USERID="876" TEXT="This book is sure to liquefy your brain." TIMESTAMP="2021-10-30"/>
+  <POSTS ID="524" USERID="571" TEXT="Martha came to the conclusion that shake weights are a great gift for any occasion." TIMESTAMP="2021-10-03"/>
+  <POSTS ID="525" USERID="352" TEXT="Don&apos;t piss in my garden and tell me you&apos;re trying to help my plants grow." TIMESTAMP="2020-07-05"/>
+  <POSTS ID="526" USERID="818" TEXT="Pink horses galloped across the sea." TIMESTAMP="2020-06-12"/>
+  <POSTS ID="527" USERID="714" TEXT="Getting up at dawn is for the birds." TIMESTAMP="2022-07-11"/>
+  <POSTS ID="528" USERID="666" TEXT="There was no ice cream in the freezer, nor did they have money to go to the store." TIMESTAMP="2020-10-04"/>
+  <POSTS ID="529" USERID="262" TEXT="It caught him off guard that space smelled of seared steak." TIMESTAMP="2022-10-08"/>
+  <POSTS ID="530" USERID="30" TEXT="The doll spun around in circles in hopes of coming alive." TIMESTAMP="2022-05-04"/>
+  <POSTS ID="531" USERID="835" TEXT="She can live her life however she wants as long as she listens to what I have to say." TIMESTAMP="2020-03-18"/>
+  <POSTS ID="532" USERID="555" TEXT="Giving directions that the mountains are to the west only works when you can see them." TIMESTAMP="2021-01-18"/>
+  <POSTS ID="533" USERID="988" TEXT="It turns out you don&apos;t need all that stuff you insisted you did." TIMESTAMP="2020-05-18"/>
+  <POSTS ID="534" USERID="949" TEXT="When he had to picnic on the beach, he purposely put sand in other peopleвЂ™s food." TIMESTAMP="2020-10-06"/>
+  <POSTS ID="535" USERID="260" TEXT="One small action would change her life, but whether it would be for better or for worse was yet to be determined." TIMESTAMP="2022-09-25"/>
+  <POSTS ID="536" USERID="20" TEXT="She traveled because it cost the same as therapy and was a lot more enjoyable." TIMESTAMP="2022-01-24"/>
+  <POSTS ID="537" USERID="714" TEXT="The beauty of the African sunset disguised the danger lurking nearby." TIMESTAMP="2021-10-10"/>
+  <POSTS ID="538" USERID="302" TEXT="Although it wasn&apos;t a pot of gold, Nancy was still enthralled at what she found at the end of the rainbow." TIMESTAMP="2021-07-18"/>
+  <POSTS ID="539" USERID="724" TEXT="The Great Dane looked more like a horse than a dog." TIMESTAMP="2021-12-11"/>
+  <POSTS ID="540" USERID="527" TEXT="The Great Dane looked more like a horse than a dog." TIMESTAMP="2021-03-04"/>
+  <POSTS ID="541" USERID="42" TEXT="He stepped gingerly onto the bridge knowing that enchantment awaited on the other side." TIMESTAMP="2022-05-24"/>
+  <POSTS ID="542" USERID="849" TEXT="I am happy to take your donation, any amount will be greatly appreciated." TIMESTAMP="2022-03-14"/>
+  <POSTS ID="543" USERID="460" TEXT="She only paints with bold colors, she does not like pastels." TIMESTAMP="2021-12-12"/>
+  <POSTS ID="544" USERID="970" TEXT="It was the scarcity that fueled his creativity." TIMESTAMP="2022-07-08"/>
+  <POSTS ID="545" USERID="378" TEXT="The lake is a long way from here." TIMESTAMP="2022-04-30"/>
+  <POSTS ID="546" USERID="555" TEXT="Grape jelly was leaking out the hole in the roof." TIMESTAMP="2021-03-16"/>
+  <POSTS ID="547" USERID="495" TEXT="With a single flip of the coin, his life changed forever." TIMESTAMP="2020-05-02"/>
+  <POSTS ID="548" USERID="665" TEXT="He was sitting in a trash can with high street class." TIMESTAMP="2020-07-12"/>
+  <POSTS ID="549" USERID="647" TEXT="He figured a few sticks of dynamite were easier than a fishing pole to catch fish." TIMESTAMP="2020-08-29"/>
+  <POSTS ID="550" USERID="738" TEXT="He set out for a short walk, but now all he could see were mangroves and water were for miles." TIMESTAMP="2022-03-07"/>
+  <POSTS ID="551" USERID="520" TEXT="She had a difficult time owning up to her own crazy self." TIMESTAMP="2020-01-17"/>
+  <POSTS ID="552" USERID="904" TEXT="It didn&apos;t make sense unless you had the power to eat colors." TIMESTAMP="2022-03-12"/>
+  <POSTS ID="553" USERID="801" TEXT="He liked to play with words in the bathtub." TIMESTAMP="2021-01-08"/>
+  <POSTS ID="554" USERID="986" TEXT="The quick brown fox jumps over the lazy dog." TIMESTAMP="2022-03-26"/>
+  <POSTS ID="555" USERID="491" TEXT="That was how he came to win $1 million." TIMESTAMP="2021-10-23"/>
+  <POSTS ID="556" USERID="50" TEXT="The pet shop stocks everything you need to keep your anaconda happy." TIMESTAMP="2020-03-25"/>
+  <POSTS ID="557" USERID="386" TEXT="He spiked his hair green to support his iguana." TIMESTAMP="2021-10-11"/>
+  <POSTS ID="558" USERID="997" TEXT="He was disappointed when he found the beach to be so sandy and the sun so sunny." TIMESTAMP="2020-07-26"/>
+  <POSTS ID="559" USERID="143" TEXT="Seek success, but always be prepared for random cats." TIMESTAMP="2022-08-03"/>
+  <POSTS ID="560" USERID="132" TEXT="Nobody questions who built the pyramids in Mexico." TIMESTAMP="2021-04-06"/>
+  <POSTS ID="561" USERID="667" TEXT="There&apos;s an art to getting your way, and spitting olive pits across the table isn&apos;t it." TIMESTAMP="2021-05-21"/>
+  <POSTS ID="562" USERID="682" TEXT="Pair your designer cowboy hat with scuba gear for a memorable occasion." TIMESTAMP="2021-01-18"/>
+  <POSTS ID="563" USERID="456" TEXT="The random sentence generator generated a random sentence about a random sentence." TIMESTAMP="2020-05-23"/>
+  <POSTS ID="564" USERID="180" TEXT="Rock music approaches at high velocity." TIMESTAMP="2020-11-12"/>
+  <POSTS ID="565" USERID="282" TEXT="To the surprise of everyone, the Rapture happened yesterday but it didn&apos;t quite go as expected." TIMESTAMP="2022-06-09"/>
+  <POSTS ID="566" USERID="624" TEXT="He didn&apos;t understand why the bird wanted to ride the bicycle." TIMESTAMP="2020-06-05"/>
+  <POSTS ID="567" USERID="905" TEXT="Today I heard something new and unmemorable." TIMESTAMP="2021-07-08"/>
+  <POSTS ID="568" USERID="475" TEXT="The elephant didn&apos;t want to talk about the person in the room." TIMESTAMP="2020-10-29"/>
+  <POSTS ID="569" USERID="387" TEXT="Be careful with that butter knife." TIMESTAMP="2022-10-19"/>
+  <POSTS ID="570" USERID="77" TEXT="The paintbrush was angry at the color the artist chose to use." TIMESTAMP="2021-04-14"/>
+  <POSTS ID="571" USERID="521" TEXT="The secret ingredient to his wonderful life was crime." TIMESTAMP="2021-05-14"/>
+  <POSTS ID="572" USERID="400" TEXT="The trick to getting kids to eat anything is to put catchup on it." TIMESTAMP="2021-01-13"/>
+  <POSTS ID="573" USERID="633" TEXT="I hear that Nancy is very pretty." TIMESTAMP="2020-11-13"/>
+  <POSTS ID="574" USERID="544" TEXT="Combines are no longer just for farms." TIMESTAMP="2021-09-24"/>
+  <POSTS ID="575" USERID="449" TEXT="There&apos;s a reason that roses have thorns." TIMESTAMP="2021-10-02"/>
+  <POSTS ID="576" USERID="614" TEXT="All you need to do is pick up the pen and begin." TIMESTAMP="2022-06-13"/>
+  <POSTS ID="577" USERID="431" TEXT="He didn&apos;t heed the warning and it had turned out surprisingly well." TIMESTAMP="2020-05-21"/>
+  <POSTS ID="578" USERID="630" TEXT="Erin accidentally created a new universe." TIMESTAMP="2020-11-21"/>
+  <POSTS ID="579" USERID="799" TEXT="The golden retriever loved the fireworks each Fourth of July." TIMESTAMP="2020-06-07"/>
+  <POSTS ID="580" USERID="358" TEXT="In that instant, everything changed." TIMESTAMP="2022-08-15"/>
+  <POSTS ID="581" USERID="478" TEXT="He is good at eating pickles and telling women about his emotional problems." TIMESTAMP="2021-12-27"/>
+  <POSTS ID="582" USERID="526" TEXT="We need to rent a room for our party." TIMESTAMP="2022-09-16"/>
+  <POSTS ID="583" USERID="5" TEXT="He learned the hardest lesson of his life and had the scars, both physical and mental, to prove it." TIMESTAMP="2020-08-10"/>
+  <POSTS ID="584" USERID="617" TEXT="At that moment he wasn&apos;t listening to music, he was living an experience." TIMESTAMP="2022-01-22"/>
+  <POSTS ID="585" USERID="99" TEXT="The paintbrush was angry at the color the artist chose to use." TIMESTAMP="2021-12-09"/>
+  <POSTS ID="586" USERID="434" TEXT="I covered my friend in baby oil." TIMESTAMP="2022-09-27"/>
+  <POSTS ID="587" USERID="655" TEXT="The tour bus was packed with teenage girls heading toward their next adventure." TIMESTAMP="2021-08-25"/>
+  <POSTS ID="588" USERID="210" TEXT="She couldn&apos;t decide of the glass was half empty or half full so she drank it." TIMESTAMP="2022-09-11"/>
+  <POSTS ID="589" USERID="666" TEXT="He embraced his new life as an eggplant." TIMESTAMP="2021-03-05"/>
+  <POSTS ID="590" USERID="118" TEXT="She had that tint of craziness in her soul that made her believe she could actually make a difference." TIMESTAMP="2022-05-02"/>
+  <POSTS ID="591" USERID="508" TEXT="Twin 4-month-olds slept in the shade of the palm tree while the mother tanned in the sun." TIMESTAMP="2021-09-04"/>
+  <POSTS ID="592" USERID="792" TEXT="Iron pyrite is the most foolish of all minerals." TIMESTAMP="2022-02-19"/>
+  <POSTS ID="593" USERID="967" TEXT="Her scream silenced the rowdy teenagers." TIMESTAMP="2022-10-15"/>
+  <POSTS ID="594" USERID="245" TEXT="You&apos;ve been eyeing me all day and waiting for your move like a lion stalking a gazelle in a savannah." TIMESTAMP="2021-11-21"/>
+  <POSTS ID="595" USERID="364" TEXT="It turns out you don&apos;t need all that stuff you insisted you did." TIMESTAMP="2021-03-02"/>
+  <POSTS ID="596" USERID="852" TEXT="I often see the time 11:11 or 12:34 on clocks." TIMESTAMP="2020-06-01"/>
+  <POSTS ID="597" USERID="877" TEXT="The door swung open to reveal pink giraffes and red elephants." TIMESTAMP="2021-09-09"/>
+  <POSTS ID="598" USERID="717" TEXT="Sometimes you have to just give up and win by cheating." TIMESTAMP="2021-03-06"/>
+  <POSTS ID="599" USERID="532" TEXT="We need to rent a room for our party." TIMESTAMP="2020-08-31"/>
+  <POSTS ID="600" USERID="352" TEXT="I&apos;m confused: when people ask me what&apos;s up, and I point, they groan." TIMESTAMP="2022-01-03"/>
+  <POSTS ID="601" USERID="59" TEXT="I am happy to take your donation, any amount will be greatly appreciated." TIMESTAMP="2020-02-29"/>
+  <POSTS ID="602" USERID="878" TEXT="The fox in the tophat whispered into the ear of the rabbit." TIMESTAMP="2020-01-03"/>
+  <POSTS ID="603" USERID="819" TEXT="I was very proud of my nickname throughout high school but today- I couldnвЂ™t be any different to what my nickname was." TIMESTAMP="2021-03-21"/>
+  <POSTS ID="604" USERID="12" TEXT="She works two jobs to make ends meet, at least, that was her reason for not having time to join us." TIMESTAMP="2020-02-18"/>
+  <POSTS ID="605" USERID="145" TEXT="The efficiency we have at removing trash has made creating trash more acceptable." TIMESTAMP="2020-04-08"/>
+  <POSTS ID="606" USERID="899" TEXT="Courage and stupidity were all he had." TIMESTAMP="2021-02-09"/>
+  <POSTS ID="607" USERID="865" TEXT="He kept telling himself that one day it would all somehow make sense." TIMESTAMP="2020-02-22"/>
+  <POSTS ID="608" USERID="410" TEXT="Separation anxiety is what happens when you can&apos;t find your phone." TIMESTAMP="2020-02-29"/>
+  <POSTS ID="609" USERID="927" TEXT="Her hair was windswept as she rode in the black convertible." TIMESTAMP="2020-04-29"/>
+  <POSTS ID="610" USERID="541" TEXT="Her life in the confines of the house became her new normal." TIMESTAMP="2020-04-01"/>
+  <POSTS ID="611" USERID="217" TEXT="8% of 25 is the same as 25% of 8 and one of them is much easier to do in your head." TIMESTAMP="2020-11-15"/>
+  <POSTS ID="612" USERID="44" TEXT="When he had to picnic on the beach, he purposely put sand in other peopleвЂ™s food." TIMESTAMP="2020-10-30"/>
+  <POSTS ID="613" USERID="367" TEXT="People generally approve of dogs eating cat food but not cats eating dog food." TIMESTAMP="2020-02-05"/>
+  <POSTS ID="614" USERID="148" TEXT="She finally understood that grief was her love with no place for it to go." TIMESTAMP="2021-12-22"/>
+  <POSTS ID="615" USERID="443" TEXT="In the end, he realized he could see sound and hear words." TIMESTAMP="2022-07-21"/>
+  <POSTS ID="616" USERID="90" TEXT="Improve your goldfish&apos;s physical fitness by getting him a bicycle." TIMESTAMP="2021-12-03"/>
+  <POSTS ID="617" USERID="996" TEXT="Dan ate the clouds like cotton candy." TIMESTAMP="2021-10-26"/>
+  <POSTS ID="618" USERID="473" TEXT="Choosing to do nothing is still a choice, after all." TIMESTAMP="2021-12-17"/>
+  <POSTS ID="619" USERID="550" TEXT="He decided to live his life by the big beats manifesto." TIMESTAMP="2022-08-27"/>
+  <POSTS ID="620" USERID="742" TEXT="The blinking lights of the antenna tower came into focus just as I heard a loud snap." TIMESTAMP="2021-06-27"/>
+  <POSTS ID="621" USERID="844" TEXT="Italy is my favorite country, in fact, I plan to spend two weeks there next year." TIMESTAMP="2021-09-02"/>
+  <POSTS ID="622" USERID="616" TEXT="Mothers spend months of their lives waiting on their children." TIMESTAMP="2022-05-03"/>
+  <POSTS ID="623" USERID="682" TEXT="That was how he came to win $1 million." TIMESTAMP="2020-08-27"/>
+  <POSTS ID="624" USERID="167" TEXT="He learned the hardest lesson of his life and had the scars, both physical and mental, to prove it." TIMESTAMP="2022-09-24"/>
+  <POSTS ID="625" USERID="315" TEXT="She had a difficult time owning up to her own crazy self." TIMESTAMP="2022-07-18"/>
+  <POSTS ID="626" USERID="670" TEXT="Honestly, I didn&apos;t care much for the first season, so I didn&apos;t bother with the second." TIMESTAMP="2021-01-19"/>
+  <POSTS ID="627" USERID="39" TEXT="She was too short to see over the fence." TIMESTAMP="2020-09-17"/>
+  <POSTS ID="628" USERID="4" TEXT="The door swung open to reveal pink giraffes and red elephants." TIMESTAMP="2021-03-25"/>
+  <POSTS ID="629" USERID="493" TEXT="He turned in the research paper on Friday, otherwise, he would have not passed the class." TIMESTAMP="2020-01-13"/>
+  <POSTS ID="630" USERID="602" TEXT="It caught him off guard that space smelled of seared steak." TIMESTAMP="2021-07-28"/>
+  <POSTS ID="631" USERID="787" TEXT="As the years pass by, we all know owners look more and more like their dogs." TIMESTAMP="2021-05-23"/>
+  <POSTS ID="632" USERID="966" TEXT="Warm beer on a cold day isn&apos;t my idea of fun." TIMESTAMP="2022-09-16"/>
+  <POSTS ID="633" USERID="281" TEXT="He didnвЂ™t want to go to the dentist, yet he went anyway." TIMESTAMP="2022-07-06"/>
+  <POSTS ID="634" USERID="708" TEXT="Her life in the confines of the house became her new normal." TIMESTAMP="2021-10-24"/>
+  <POSTS ID="635" USERID="429" TEXT="Rock music approaches at high velocity." TIMESTAMP="2020-12-11"/>
+  <POSTS ID="636" USERID="854" TEXT="Jeanne wished she has chosen the red button." TIMESTAMP="2021-12-02"/>
+  <POSTS ID="637" USERID="863" TEXT="As the asteroid hurtled toward earth, Becky was upset her dentist appointment had been canceled." TIMESTAMP="2021-12-14"/>
+  <POSTS ID="638" USERID="747" TEXT="The river stole the gods." TIMESTAMP="2020-06-01"/>
+  <POSTS ID="639" USERID="169" TEXT="Last Friday I saw a spotted striped blue worm shake hands with a legless lizard." TIMESTAMP="2021-09-16"/>
+  <POSTS ID="640" USERID="376" TEXT="The wake behind the boat told of the past while the open sea for told life in the unknown future." TIMESTAMP="2022-05-25"/>
+  <POSTS ID="641" USERID="96" TEXT="Stop waiting for exceptional things to just happen." TIMESTAMP="2022-05-22"/>
+  <POSTS ID="642" USERID="244" TEXT="Nudist colonies shun fig-leaf couture." TIMESTAMP="2021-04-18"/>
+  <POSTS ID="643" USERID="418" TEXT="Separation anxiety is what happens when you can&apos;t find your phone." TIMESTAMP="2022-07-13"/>
+  <POSTS ID="644" USERID="306" TEXT="Standing on one&apos;s head at job interviews forms a lasting impression." TIMESTAMP="2020-06-17"/>
+  <POSTS ID="645" USERID="333" TEXT="They throw cabbage that turns your brain into emotional baggage." TIMESTAMP="2021-07-14"/>
+  <POSTS ID="646" USERID="722" TEXT="The skeleton had skeletons of his own in the closet." TIMESTAMP="2020-09-30"/>
+  <POSTS ID="647" USERID="922" TEXT="There was coal in his stocking and he was thrilled." TIMESTAMP="2022-04-09"/>
+  <POSTS ID="648" USERID="187" TEXT="He uses onomatopoeia as a weapon of mental destruction." TIMESTAMP="2021-10-18"/>
+  <POSTS ID="649" USERID="713" TEXT="It didn&apos;t take long for Gary to detect the robbers were amateurs." TIMESTAMP="2020-09-21"/>
+  <POSTS ID="650" USERID="61" TEXT="Poison ivy grew through the fence they said was impenetrable." TIMESTAMP="2021-09-09"/>
+  <POSTS ID="651" USERID="255" TEXT="Of course, she loves her pink bunny slippers." TIMESTAMP="2021-03-20"/>
+  <POSTS ID="652" USERID="76" TEXT="The bees decided to have a mutiny against their queen." TIMESTAMP="2020-02-27"/>
+  <POSTS ID="653" USERID="398" TEXT="She tilted her head back and let whip cream stream into her mouth while taking a bath." TIMESTAMP="2021-12-23"/>
+  <POSTS ID="654" USERID="144" TEXT="It was the best sandcastle he had ever seen." TIMESTAMP="2022-03-08"/>
+  <POSTS ID="655" USERID="860" TEXT="Your girlfriend bought your favorite cookie crisp cereal but forgot to get milk." TIMESTAMP="2020-03-28"/>
+  <POSTS ID="656" USERID="605" TEXT="She looked at the masterpiece hanging in the museum but all she could think is that her five-year-old could do better." TIMESTAMP="2020-01-24"/>
+  <POSTS ID="657" USERID="263" TEXT="She folded her handkerchief neatly." TIMESTAMP="2021-02-23"/>
+  <POSTS ID="658" USERID="568" TEXT="They were excited to see their first sloth." TIMESTAMP="2020-08-21"/>
+  <POSTS ID="659" USERID="949" TEXT="At that moment she realized she had a sixth sense." TIMESTAMP="2022-05-31"/>
+  <POSTS ID="660" USERID="915" TEXT="He learned the important lesson that a picnic at the beach on a windy day is a bad idea." TIMESTAMP="2022-10-01"/>
+  <POSTS ID="661" USERID="843" TEXT="He realized there had been several deaths on this road, but his concern rose when he saw the exact number." TIMESTAMP="2020-02-19"/>
+  <POSTS ID="662" USERID="233" TEXT="I currently have 4 windows open upвЂ¦ and I donвЂ™t know why." TIMESTAMP="2020-01-09"/>
+  <POSTS ID="663" USERID="917" TEXT="The opportunity of a lifetime passed before him as he tried to decide between a cone or a cup." TIMESTAMP="2022-06-17"/>
+  <POSTS ID="664" USERID="218" TEXT="I donвЂ™t respect anybody who canвЂ™t tell the difference between Pepsi and Coke." TIMESTAMP="2020-06-05"/>
+  <POSTS ID="665" USERID="22" TEXT="Her daily goal was to improve on yesterday." TIMESTAMP="2022-06-10"/>
+  <POSTS ID="666" USERID="851" TEXT="I caught my squirrel rustling through my gym bag." TIMESTAMP="2020-09-07"/>
+  <POSTS ID="667" USERID="334" TEXT="The thick foliage and intertwined vines made the hike nearly impossible." TIMESTAMP="2022-04-05"/>
+  <POSTS ID="668" USERID="910" TEXT="She can live her life however she wants as long as she listens to what I have to say." TIMESTAMP="2021-02-17"/>
+  <POSTS ID="669" USERID="129" TEXT="His thought process was on so many levels that he gave himself a phobia of heights." TIMESTAMP="2021-08-02"/>
+  <POSTS ID="670" USERID="70" TEXT="The gloves protect my feet from excess work." TIMESTAMP="2021-11-26"/>
+  <POSTS ID="671" USERID="462" TEXT="Fluffy pink unicorns are a popular status symbol among macho men." TIMESTAMP="2020-11-11"/>
+  <POSTS ID="672" USERID="437" TEXT="Sometimes it is better to just walk away from things and go back to them later when youвЂ™re in a better frame of mind." TIMESTAMP="2021-06-29"/>
+  <POSTS ID="673" USERID="836" TEXT="She did a happy dance because all of the socks from the dryer matched." TIMESTAMP="2020-11-23"/>
+  <POSTS ID="674" USERID="634" TEXT="He swore he just saw his sushi move." TIMESTAMP="2020-03-09"/>
+  <POSTS ID="675" USERID="771" TEXT="Today I heard something new and unmemorable." TIMESTAMP="2021-01-12"/>
+  <POSTS ID="676" USERID="861" TEXT="He was the type of guy who liked Christmas lights on his house in the middle of July." TIMESTAMP="2020-10-07"/>
+  <POSTS ID="677" USERID="681" TEXT="As time wore on, simple dog commands turned into full paragraphs explaining why the dog couldnвЂ™t do something." TIMESTAMP="2022-05-22"/>
+  <POSTS ID="678" USERID="424" TEXT="Various sea birds are elegant, but nothing is as elegant as a gliding pelican." TIMESTAMP="2022-05-02"/>
+  <POSTS ID="679" USERID="177" TEXT="I would have gotten the promotion, but my attendance wasnвЂ™t good enough." TIMESTAMP="2022-04-12"/>
+  <POSTS ID="680" USERID="314" TEXT="She couldn&apos;t decide of the glass was half empty or half full so she drank it." TIMESTAMP="2021-09-29"/>
+  <POSTS ID="681" USERID="564" TEXT="On a scale from one to ten, what&apos;s your favorite flavor of random grammar?" TIMESTAMP="2021-12-28"/>
+  <POSTS ID="682" USERID="681" TEXT="He swore he just saw his sushi move." TIMESTAMP="2022-04-11"/>
+  <POSTS ID="683" USERID="662" TEXT="You&apos;re good at English when you know the difference between a man eating chicken and a man-eating chicken." TIMESTAMP="2021-04-04"/>
+  <POSTS ID="684" USERID="49" TEXT="Never underestimate the willingness of the greedy to throw you under the bus." TIMESTAMP="2021-03-01"/>
+  <POSTS ID="685" USERID="560" TEXT="He barked orders at his daughters but they just stared back with amusement." TIMESTAMP="2021-04-12"/>
+  <POSTS ID="686" USERID="855" TEXT="Some bathing suits just shouldnвЂ™t be worn by some people." TIMESTAMP="2020-10-09"/>
+  <POSTS ID="687" USERID="439" TEXT="Today we gathered moss for my uncle&apos;s wedding." TIMESTAMP="2022-02-26"/>
+  <POSTS ID="688" USERID="606" TEXT="He would only survive if he kept the fire going and he could hear thunder in the distance." TIMESTAMP="2022-02-04"/>
+  <POSTS ID="689" USERID="377" TEXT="Greetings from the galaxy MACS0647-JD, or what we call home." TIMESTAMP="2020-11-04"/>
+  <POSTS ID="690" USERID="784" TEXT="Combines are no longer just for farms." TIMESTAMP="2020-02-15"/>
+  <POSTS ID="691" USERID="465" TEXT="I&apos;d rather be a bird than a fish." TIMESTAMP="2022-06-16"/>
+  <POSTS ID="692" USERID="682" TEXT="When money was tight, he&apos;d get his lunch money from the local wishing well." TIMESTAMP="2021-06-15"/>
+  <POSTS ID="693" USERID="479" TEXT="Buried deep in the snow, he hoped his batteries were fresh in his avalanche beacon." TIMESTAMP="2020-01-05"/>
+  <POSTS ID="694" USERID="280" TEXT="He didn&apos;t heed the warning and it had turned out surprisingly well." TIMESTAMP="2022-08-28"/>
+  <POSTS ID="695" USERID="188" TEXT="David subscribes to the &quot;stuff your tent into the bag&quot; strategy over nicely folding it." TIMESTAMP="2021-09-06"/>
+  <POSTS ID="696" USERID="753" TEXT="Nobody loves a pig wearing lipstick." TIMESTAMP="2020-03-28"/>
+  <POSTS ID="697" USERID="563" TEXT="He picked up trash in his spare time to dump in his neighbor&apos;s yard." TIMESTAMP="2021-02-06"/>
+  <POSTS ID="698" USERID="249" TEXT="He didn&apos;t understand why the bird wanted to ride the bicycle." TIMESTAMP="2020-10-23"/>
+  <POSTS ID="699" USERID="114" TEXT="The near-death experience brought new ideas to light." TIMESTAMP="2022-10-19"/>
+  <POSTS ID="700" USERID="13" TEXT="In that instant, everything changed." TIMESTAMP="2022-06-11"/>
+  <POSTS ID="701" USERID="323" TEXT="He poured rocks in the dungeon of his mind." TIMESTAMP="2021-12-16"/>
+  <POSTS ID="702" USERID="367" TEXT="Honestly, I didn&apos;t care much for the first season, so I didn&apos;t bother with the second." TIMESTAMP="2020-10-27"/>
+  <POSTS ID="703" USERID="579" TEXT="The book is in front of the table." TIMESTAMP="2021-09-03"/>
+  <POSTS ID="704" USERID="22" TEXT="Not all people who wander are lost." TIMESTAMP="2020-05-28"/>
+  <POSTS ID="705" USERID="552" TEXT="The white water rafting trip was suddenly halted by the unexpected brick wall." TIMESTAMP="2021-02-09"/>
+  <POSTS ID="706" USERID="913" TEXT="They desperately needed another drummer since the current one only knew how to play bongos." TIMESTAMP="2020-12-08"/>
+  <POSTS ID="707" USERID="820" TEXT="She cried diamonds." TIMESTAMP="2020-03-10"/>
+  <POSTS ID="708" USERID="446" TEXT="Jason lived his life by the motto, &quot;Anything worth doing is worth doing poorly." TIMESTAMP="2022-06-30"/>
+  <POSTS ID="709" USERID="767" TEXT="The fish dreamed of escaping the fishbowl and into the toilet where he saw his friend go." TIMESTAMP="2022-02-13"/>
+  <POSTS ID="710" USERID="982" TEXT="He had a hidden stash underneath the floorboards in the back room of the house." TIMESTAMP="2020-06-23"/>
+  <POSTS ID="711" USERID="421" TEXT="Even though he thought the world was flat he didnвЂ™t see the irony of wanting to travel around the world." TIMESTAMP="2021-02-23"/>
+  <POSTS ID="712" USERID="599" TEXT="A glittering gem is not enough." TIMESTAMP="2020-10-08"/>
+  <POSTS ID="713" USERID="389" TEXT="Her scream silenced the rowdy teenagers." TIMESTAMP="2022-06-25"/>
+  <POSTS ID="714" USERID="85" TEXT="Eating eggs on Thursday for choir practice was recommended." TIMESTAMP="2022-07-25"/>
+  <POSTS ID="715" USERID="500" TEXT="Dan took the deep dive down the rabbit hole." TIMESTAMP="2022-01-05"/>
+  <POSTS ID="716" USERID="495" TEXT="Going from child, to childish, to childlike is only a matter of time." TIMESTAMP="2022-04-12"/>
+  <POSTS ID="717" USERID="369" TEXT="You can&apos;t compare apples and oranges, but what about bananas and plantains?" TIMESTAMP="2022-04-23"/>
+  <POSTS ID="718" USERID="523" TEXT="Traveling became almost extinct during the pandemic." TIMESTAMP="2020-02-12"/>
+  <POSTS ID="719" USERID="197" TEXT="He excelled at firing people nicely." TIMESTAMP="2020-03-26"/>
+  <POSTS ID="720" USERID="153" TEXT="The fish dreamed of escaping the fishbowl and into the toilet where he saw his friend go." TIMESTAMP="2020-06-18"/>
+  <POSTS ID="721" USERID="395" TEXT="She advised him to come back at once." TIMESTAMP="2021-04-17"/>
+  <POSTS ID="722" USERID="331" TEXT="He decided water-skiing on a frozen lake wasnвЂ™t a good idea." TIMESTAMP="2021-08-05"/>
+  <POSTS ID="723" USERID="778" TEXT="The sudden rainstorm washed crocodiles into the ocean." TIMESTAMP="2021-08-17"/>
+  <POSTS ID="724" USERID="227" TEXT="They ran around the corner to find that they had traveled back in time." TIMESTAMP="2022-04-06"/>
+  <POSTS ID="725" USERID="995" TEXT="You&apos;ll see the rainbow bridge after it rains cats and dogs." TIMESTAMP="2020-07-01"/>
+  <POSTS ID="726" USERID="93" TEXT="He said he was not there yesterday, however, many people saw him there." TIMESTAMP="2022-01-02"/>
+  <POSTS ID="727" USERID="387" TEXT="I was very proud of my nickname throughout high school but today- I couldnвЂ™t be any different to what my nickname was." TIMESTAMP="2021-10-12"/>
+  <POSTS ID="728" USERID="877" TEXT="In hopes of finding out the truth, he entered the one-room library." TIMESTAMP="2021-04-16"/>
+  <POSTS ID="729" USERID="110" TEXT="He went on a whiskey diet and immediately lost three days." TIMESTAMP="2020-06-19"/>
+  <POSTS ID="730" USERID="225" TEXT="It was obvious she was hot, sweaty, and tired." TIMESTAMP="2020-12-30"/>
+  <POSTS ID="731" USERID="844" TEXT="They called out her name time and again, but were met with nothing but silence." TIMESTAMP="2021-03-12"/>
+  <POSTS ID="732" USERID="651" TEXT="Nothing seemed out of place except the washing machine in the bar." TIMESTAMP="2021-03-13"/>
+  <POSTS ID="733" USERID="370" TEXT="She was amazed by the large chunks of ice washing up on the beach." TIMESTAMP="2020-11-26"/>
+  <POSTS ID="734" USERID="865" TEXT="Carol drank the blood as if she were a vampire." TIMESTAMP="2022-08-24"/>
+  <POSTS ID="735" USERID="538" TEXT="I am happy to take your donation, any amount will be greatly appreciated." TIMESTAMP="2022-02-16"/>
+  <POSTS ID="736" USERID="583" TEXT="She had convinced her kids that any mushroom found on the ground would kill them if they touched it." TIMESTAMP="2021-05-22"/>
+  <POSTS ID="737" USERID="275" TEXT="The fish listened intently to what the frogs had to say." TIMESTAMP="2021-01-18"/>
+  <POSTS ID="738" USERID="348" TEXT="He kept telling himself that one day it would all somehow make sense." TIMESTAMP="2021-10-08"/>
+  <POSTS ID="739" USERID="170" TEXT="I donвЂ™t respect anybody who canвЂ™t tell the difference between Pepsi and Coke." TIMESTAMP="2020-03-26"/>
+  <POSTS ID="740" USERID="387" TEXT="Separation anxiety is what happens when you can&apos;t find your phone." TIMESTAMP="2021-08-08"/>
+  <POSTS ID="741" USERID="998" TEXT="IвЂ™m a living furnace." TIMESTAMP="2020-11-14"/>
+  <POSTS ID="742" USERID="632" TEXT="He watched the dancing piglets with panda bear tummies in the swimming pool." TIMESTAMP="2020-08-02"/>
+  <POSTS ID="743" USERID="709" TEXT="People keep telling me &quot;orange&quot; but I still prefer &quot;pink&quot;." TIMESTAMP="2021-08-14"/>
+  <POSTS ID="744" USERID="451" TEXT="The trick to getting kids to eat anything is to put catchup on it." TIMESTAMP="2022-01-09"/>
+  <POSTS ID="745" USERID="598" TEXT="Everyone says they love nature until they realize how dangerous she can be." TIMESTAMP="2020-01-27"/>
+  <POSTS ID="746" USERID="796" TEXT="Car safety systems have come a long way, but he was out to prove they could be outsmarted." TIMESTAMP="2020-12-03"/>
+  <POSTS ID="747" USERID="13" TEXT="Nudist colonies shun fig-leaf couture." TIMESTAMP="2021-10-20"/>
+  <POSTS ID="748" USERID="738" TEXT="Lightning Paradise was the local hangout joint where the group usually ended up spending the night." TIMESTAMP="2021-07-26"/>
+  <POSTS ID="749" USERID="130" TEXT="Mary plays the piano." TIMESTAMP="2020-06-04"/>
+  <POSTS ID="750" USERID="100" TEXT="She tilted her head back and let whip cream stream into her mouth while taking a bath." TIMESTAMP="2020-12-31"/>
+  <POSTS ID="751" USERID="165" TEXT="Love is not like pizza." TIMESTAMP="2022-02-24"/>
+  <POSTS ID="752" USERID="692" TEXT="He quietly entered the museum as the super bowl started." TIMESTAMP="2022-01-20"/>
+  <POSTS ID="753" USERID="439" TEXT="It dawned on her that others could make her happier, but only she could make herself happy." TIMESTAMP="2020-05-26"/>
+  <POSTS ID="754" USERID="996" TEXT="The hand sanitizer was actually clear glue." TIMESTAMP="2021-03-09"/>
+  <POSTS ID="755" USERID="583" TEXT="She thought there&apos;d be sufficient time if she hid her watch." TIMESTAMP="2022-03-24"/>
+  <POSTS ID="756" USERID="496" TEXT="The book is in front of the table." TIMESTAMP="2021-03-27"/>
+  <POSTS ID="757" USERID="114" TEXT="Everyone was curious about the large white blimp that appeared overnight." TIMESTAMP="2021-09-28"/>
+  <POSTS ID="758" USERID="52" TEXT="She was the type of girl who wanted to live in a pink house." TIMESTAMP="2021-04-04"/>
+  <POSTS ID="759" USERID="423" TEXT="It&apos;s not often you find a soggy banana on the street." TIMESTAMP="2021-01-18"/>
+  <POSTS ID="760" USERID="489" TEXT="When money was tight, he&apos;d get his lunch money from the local wishing well." TIMESTAMP="2022-06-12"/>
+  <POSTS ID="761" USERID="698" TEXT="Your girlfriend bought your favorite cookie crisp cereal but forgot to get milk." TIMESTAMP="2020-09-20"/>
+  <POSTS ID="762" USERID="942" TEXT="I am counting my calories, yet I really want dessert." TIMESTAMP="2021-04-07"/>
+  <POSTS ID="763" USERID="488" TEXT="Dan ate the clouds like cotton candy." TIMESTAMP="2021-03-12"/>
+  <POSTS ID="764" USERID="534" TEXT="She could hear him in the shower singing with a joy she hoped he&apos;d retain after she delivered the news." TIMESTAMP="2020-05-11"/>
+  <POSTS ID="765" USERID="558" TEXT="The thunderous roar of the jet overhead confirmed her worst fears." TIMESTAMP="2022-07-22"/>
+  <POSTS ID="766" USERID="194" TEXT="Today is the day I&apos;ll finally know what brick tastes like." TIMESTAMP="2021-10-26"/>
+  <POSTS ID="767" USERID="414" TEXT="Dan ate the clouds like cotton candy." TIMESTAMP="2022-02-08"/>
+  <POSTS ID="768" USERID="392" TEXT="Patricia loves the sound of nails strongly pressed against the chalkboard." TIMESTAMP="2020-09-30"/>
+  <POSTS ID="769" USERID="795" TEXT="I would be delighted if the sea were full of cucumber juice." TIMESTAMP="2020-11-02"/>
+  <POSTS ID="770" USERID="48" TEXT="David proudly graduated from high school top of his class at age 97." TIMESTAMP="2020-07-22"/>
+  <POSTS ID="771" USERID="96" TEXT="The Great Dane looked more like a horse than a dog." TIMESTAMP="2022-09-16"/>
+  <POSTS ID="772" USERID="149" TEXT="Never underestimate the willingness of the greedy to throw you under the bus." TIMESTAMP="2021-10-17"/>
+  <POSTS ID="773" USERID="682" TEXT="A quiet house is nice until you are ordered to stay in it for months." TIMESTAMP="2020-04-25"/>
+  <POSTS ID="774" USERID="223" TEXT="In hopes of finding out the truth, he entered the one-room library." TIMESTAMP="2020-06-21"/>
+  <POSTS ID="775" USERID="805" TEXT="Everybody should read Chaucer to improve their everyday vocabulary." TIMESTAMP="2021-01-17"/>
+  <POSTS ID="776" USERID="541" TEXT="She traveled because it cost the same as therapy and was a lot more enjoyable." TIMESTAMP="2021-06-10"/>
+  <POSTS ID="777" USERID="880" TEXT="The river stole the gods." TIMESTAMP="2020-06-07"/>
+  <POSTS ID="778" USERID="152" TEXT="If any cop asks you where you were, just say you were visiting Kansas." TIMESTAMP="2020-02-02"/>
+  <POSTS ID="779" USERID="79" TEXT="I want to buy a onesieвЂ¦ but know it wonвЂ™t suit me." TIMESTAMP="2020-01-14"/>
+  <POSTS ID="780" USERID="241" TEXT="We need to rent a room for our party." TIMESTAMP="2020-07-22"/>
+  <POSTS ID="781" USERID="644" TEXT="The Guinea fowl flies through the air with all the grace of a turtle." TIMESTAMP="2020-09-17"/>
+  <POSTS ID="782" USERID="582" TEXT="Someone I know recently combined Maple Syrup &amp; buttered Popcorn thinking it would taste like caramel popcorn. It didnвЂ™t and they donвЂ™t recommend anyone else do it either." TIMESTAMP="2020-04-20"/>
+  <POSTS ID="783" USERID="59" TEXT="I&apos;m confused: when people ask me what&apos;s up, and I point, they groan." TIMESTAMP="2020-04-29"/>
+  <POSTS ID="784" USERID="601" TEXT="It was a slippery slope and he was willing to slide all the way to the deepest depths." TIMESTAMP="2020-01-19"/>
+  <POSTS ID="785" USERID="72" TEXT="It was a slippery slope and he was willing to slide all the way to the deepest depths." TIMESTAMP="2022-01-15"/>
+  <POSTS ID="786" USERID="237" TEXT="Writing a list of random sentences is harder than I initially thought it would be." TIMESTAMP="2021-09-09"/>
+  <POSTS ID="787" USERID="501" TEXT="If you like tuna and tomato sauce- try combining the two. ItвЂ™s really not as bad as it sounds." TIMESTAMP="2021-10-15"/>
+  <POSTS ID="788" USERID="727" TEXT="They throw cabbage that turns your brain into emotional baggage." TIMESTAMP="2022-10-15"/>
+  <POSTS ID="789" USERID="386" TEXT="She advised him to come back at once." TIMESTAMP="2021-11-02"/>
+  <POSTS ID="790" USERID="945" TEXT="Choosing to do nothing is still a choice, after all." TIMESTAMP="2020-06-30"/>
+  <POSTS ID="791" USERID="361" TEXT="If I donвЂ™t like something, IвЂ™ll stay away from it." TIMESTAMP="2022-07-11"/>
+  <POSTS ID="792" USERID="762" TEXT="He found the end of the rainbow and was surprised at what he found there." TIMESTAMP="2021-01-04"/>
+  <POSTS ID="793" USERID="190" TEXT="I love eating toasted cheese and tuna sandwiches." TIMESTAMP="2022-01-24"/>
+  <POSTS ID="794" USERID="983" TEXT="She cried diamonds." TIMESTAMP="2022-04-20"/>
+  <POSTS ID="795" USERID="670" TEXT="That was how he came to win $1 million." TIMESTAMP="2020-03-26"/>
+  <POSTS ID="796" USERID="518" TEXT="The book is in front of the table." TIMESTAMP="2020-06-05"/>
+  <POSTS ID="797" USERID="907" TEXT="I liked their first two albums but changed my mind after that charity gig." TIMESTAMP="2021-12-28"/>
+  <POSTS ID="798" USERID="723" TEXT="Their argument could be heard across the parking lot." TIMESTAMP="2020-03-05"/>
+  <POSTS ID="799" USERID="473" TEXT="Pantyhose and heels are an interesting choice of attire for the beach." TIMESTAMP="2022-04-29"/>
+  <POSTS ID="800" USERID="750" TEXT="He uses onomatopoeia as a weapon of mental destruction." TIMESTAMP="2021-06-16"/>
+  <POSTS ID="801" USERID="374" TEXT="When he encountered maize for the first time, he thought it incredibly corny." TIMESTAMP="2021-02-07"/>
+  <POSTS ID="802" USERID="519" TEXT="After exploring the abandoned building, he started to believe in ghosts." TIMESTAMP="2020-05-31"/>
+  <POSTS ID="803" USERID="824" TEXT="It didn&apos;t make sense unless you had the power to eat colors." TIMESTAMP="2020-01-24"/>
+  <POSTS ID="804" USERID="436" TEXT="It would have been a better night if the guys next to us weren&apos;t in the splash zone." TIMESTAMP="2020-08-06"/>
+  <POSTS ID="805" USERID="491" TEXT="The view from the lighthouse excited even the most seasoned traveler." TIMESTAMP="2020-02-09"/>
+  <POSTS ID="806" USERID="712" TEXT="The busker hoped that the people passing by would throw money, but they threw tomatoes instead, so he exchanged his hat for a juicer." TIMESTAMP="2021-09-13"/>
+  <POSTS ID="807" USERID="802" TEXT="Behind the window was a reflection that only instilled fear." TIMESTAMP="2021-08-21"/>
+  <POSTS ID="808" USERID="600" TEXT="He decided to live his life by the big beats manifesto." TIMESTAMP="2021-05-16"/>
+  <POSTS ID="809" USERID="704" TEXT="Someone I know recently combined Maple Syrup &amp; buttered Popcorn thinking it would taste like caramel popcorn. It didnвЂ™t and they donвЂ™t recommend anyone else do it either." TIMESTAMP="2020-11-24"/>
+  <POSTS ID="810" USERID="626" TEXT="He had concluded that pigs must be able to fly in Hog Heaven." TIMESTAMP="2020-10-08"/>
+  <POSTS ID="811" USERID="725" TEXT="Everybody should read Chaucer to improve their everyday vocabulary." TIMESTAMP="2022-01-27"/>
+  <POSTS ID="812" USERID="42" TEXT="There was no telling what thoughts would come from the machine." TIMESTAMP="2020-12-15"/>
+  <POSTS ID="813" USERID="202" TEXT="While all her friends were positive that Mary had a sixth sense, she knew she actually had a seventh sense." TIMESTAMP="2020-06-29"/>
+  <POSTS ID="814" USERID="595" TEXT="She couldn&apos;t decide of the glass was half empty or half full so she drank it." TIMESTAMP="2020-08-29"/>
+  <POSTS ID="815" USERID="814" TEXT="She folded her handkerchief neatly." TIMESTAMP="2020-07-18"/>
+  <POSTS ID="816" USERID="729" TEXT="Iron pyrite is the most foolish of all minerals." TIMESTAMP="2020-04-26"/>
+  <POSTS ID="817" USERID="458" TEXT="There were white out conditions in the town, subsequently, the roads were impassable." TIMESTAMP="2022-10-15"/>
+  <POSTS ID="818" USERID="596" TEXT="He ended up burning his fingers poking someone else&apos;s fire." TIMESTAMP="2020-03-16"/>
+  <POSTS ID="819" USERID="578" TEXT="Yeah, I think it&apos;s a good environment for learning English." TIMESTAMP="2020-01-20"/>
+  <POSTS ID="820" USERID="950" TEXT="If you like tuna and tomato sauce- try combining the two. ItвЂ™s really not as bad as it sounds." TIMESTAMP="2021-07-22"/>
+  <POSTS ID="821" USERID="498" TEXT="He knew it was going to be a bad day when he saw mountain lions roaming the streets." TIMESTAMP="2021-08-10"/>
+  <POSTS ID="822" USERID="572" TEXT="Nobody loves a pig wearing lipstick." TIMESTAMP="2022-01-22"/>
+  <POSTS ID="823" USERID="486" TEXT="When nobody is around, the trees gossip about the people who have walked under them." TIMESTAMP="2022-06-16"/>
+  <POSTS ID="824" USERID="263" TEXT="He looked behind the door and didn&apos;t like what he saw." TIMESTAMP="2020-10-05"/>
+  <POSTS ID="825" USERID="98" TEXT="Excitement replaced fear until the final moment." TIMESTAMP="2022-09-12"/>
+  <POSTS ID="826" USERID="762" TEXT="It was difficult for Mary to admit that most of her workout consisted of exercising poor judgment." TIMESTAMP="2022-09-17"/>
+  <POSTS ID="827" USERID="445" TEXT="He liked to play with words in the bathtub." TIMESTAMP="2020-07-15"/>
+  <POSTS ID="828" USERID="68" TEXT="They were excited to see their first sloth." TIMESTAMP="2020-07-27"/>
+  <POSTS ID="829" USERID="401" TEXT="Lets all be unique together until we realise we are all the same." TIMESTAMP="2020-12-14"/>
+  <POSTS ID="830" USERID="516" TEXT="Thigh-high in the water, the fishermanвЂ™s hope for dinner soon turned to despair." TIMESTAMP="2022-09-11"/>
+  <POSTS ID="831" USERID="523" TEXT="She had some amazing news to share but nobody to share it with." TIMESTAMP="2020-09-20"/>
+  <POSTS ID="832" USERID="282" TEXT="He took one look at what was under the table and noped the hell out of there." TIMESTAMP="2022-03-13"/>
+  <POSTS ID="833" USERID="513" TEXT="Most shark attacks occur about 10 feet from the beach since that&apos;s where the people are." TIMESTAMP="2020-06-28"/>
+  <POSTS ID="834" USERID="437" TEXT="His thought process was on so many levels that he gave himself a phobia of heights." TIMESTAMP="2020-11-29"/>
+  <POSTS ID="835" USERID="43" TEXT="The secret code they created made no sense, even to them." TIMESTAMP="2022-03-16"/>
+  <POSTS ID="836" USERID="766" TEXT="Courage and stupidity were all he had." TIMESTAMP="2020-05-16"/>
+  <POSTS ID="837" USERID="689" TEXT="It was at that moment that he learned there are certain parts of the body that you should never Nair." TIMESTAMP="2020-05-09"/>
+  <POSTS ID="838" USERID="413" TEXT="The fact that there&apos;s a stairway to heaven and a highway to hell explains life well." TIMESTAMP="2022-06-20"/>
+  <POSTS ID="839" USERID="516" TEXT="Let me help you with your baggage." TIMESTAMP="2020-09-26"/>
+  <POSTS ID="840" USERID="807" TEXT="He is good at eating pickles and telling women about his emotional problems." TIMESTAMP="2021-02-26"/>
+  <POSTS ID="841" USERID="876" TEXT="Having no hair made him look even hairier." TIMESTAMP="2021-03-13"/>
+  <POSTS ID="842" USERID="484" TEXT="The Tsunami wave crashed against the raised houses and broke the pilings as if they were toothpicks." TIMESTAMP="2022-01-05"/>
+  <POSTS ID="843" USERID="474" TEXT="The fish listened intently to what the frogs had to say." TIMESTAMP="2020-08-24"/>
+  <POSTS ID="844" USERID="829" TEXT="The mysterious diary records the voice." TIMESTAMP="2021-12-25"/>
+  <POSTS ID="845" USERID="701" TEXT="She had a difficult time owning up to her own crazy self." TIMESTAMP="2020-08-11"/>
+  <POSTS ID="846" USERID="34" TEXT="He was willing to find the depths of the rabbit hole in order to be with her." TIMESTAMP="2020-07-07"/>
+  <POSTS ID="847" USERID="152" TEXT="People generally approve of dogs eating cat food but not cats eating dog food." TIMESTAMP="2020-03-07"/>
+  <POSTS ID="848" USERID="4" TEXT="Truth in advertising and dinosaurs with skateboards have much in common." TIMESTAMP="2022-05-08"/>
+  <POSTS ID="849" USERID="935" TEXT="The two walked down the slot canyon oblivious to the sound of thunder in the distance." TIMESTAMP="2021-04-30"/>
+  <POSTS ID="850" USERID="891" TEXT="The secret ingredient to his wonderful life was crime." TIMESTAMP="2022-10-10"/>
+  <POSTS ID="851" USERID="12" TEXT="8% of 25 is the same as 25% of 8 and one of them is much easier to do in your head." TIMESTAMP="2022-03-26"/>
+  <POSTS ID="852" USERID="299" TEXT="The two walked down the slot canyon oblivious to the sound of thunder in the distance." TIMESTAMP="2022-07-09"/>
+  <POSTS ID="853" USERID="676" TEXT="Love is not like pizza." TIMESTAMP="2021-07-07"/>
+  <POSTS ID="854" USERID="716" TEXT="There were three sphered rocks congregating in a cubed room." TIMESTAMP="2022-07-20"/>
+  <POSTS ID="855" USERID="348" TEXT="He ran out of money, so he had to stop playing poker." TIMESTAMP="2020-08-18"/>
+  <POSTS ID="856" USERID="288" TEXT="The light that burns twice as bright burns half as long." TIMESTAMP="2022-07-31"/>
+  <POSTS ID="857" USERID="616" TEXT="Peanuts don&apos;t grow on trees, but cashews do." TIMESTAMP="2022-07-30"/>
+  <POSTS ID="858" USERID="918" TEXT="It&apos;s not often you find a soggy banana on the street." TIMESTAMP="2021-06-16"/>
+  <POSTS ID="859" USERID="499" TEXT="The sun had set and so had his dreams." TIMESTAMP="2020-01-31"/>
+  <POSTS ID="860" USERID="523" TEXT="Tuesdays are free if you bring a gnome costume." TIMESTAMP="2021-10-09"/>
+  <POSTS ID="861" USERID="229" TEXT="There was coal in his stocking and he was thrilled." TIMESTAMP="2020-12-13"/>
+  <POSTS ID="862" USERID="445" TEXT="It must be five o&apos;clock somewhere." TIMESTAMP="2022-01-02"/>
+  <POSTS ID="863" USERID="269" TEXT="Nothing is as cautiously cuddly as a pet porcupine." TIMESTAMP="2022-05-16"/>
+  <POSTS ID="864" USERID="442" TEXT="Whenever he saw a red flag warning at the beach he grabbed his surfboard." TIMESTAMP="2021-10-01"/>
+  <POSTS ID="865" USERID="794" TEXT="My Mum tries to be cool by saying that she likes all the same things that I do." TIMESTAMP="2020-01-22"/>
+  <POSTS ID="866" USERID="996" TEXT="He stomped on his fruit loops and thus became a cereal killer." TIMESTAMP="2021-10-05"/>
+  <POSTS ID="867" USERID="52" TEXT="He went back to the video to see what had been recorded and was shocked at what he saw." TIMESTAMP="2021-08-03"/>
+  <POSTS ID="868" USERID="742" TEXT="Swim at your own risk was taken as a challenge for the group of Kansas City college students." TIMESTAMP="2022-02-06"/>
+  <POSTS ID="869" USERID="50" TEXT="The paintbrush was angry at the color the artist chose to use." TIMESTAMP="2020-08-14"/>
+  <POSTS ID="870" USERID="344" TEXT="Writing a list of random sentences is harder than I initially thought it would be." TIMESTAMP="2022-04-09"/>
+  <POSTS ID="871" USERID="884" TEXT="Of course, she loves her pink bunny slippers." TIMESTAMP="2020-08-12"/>
+  <POSTS ID="872" USERID="211" TEXT="I am never at home on Sundays." TIMESTAMP="2021-07-20"/>
+  <POSTS ID="873" USERID="228" TEXT="He set out for a short walk, but now all he could see were mangroves and water were for miles." TIMESTAMP="2021-03-06"/>
+  <POSTS ID="874" USERID="359" TEXT="He spiked his hair green to support his iguana." TIMESTAMP="2020-04-22"/>
+  <POSTS ID="875" USERID="667" TEXT="Charles ate the french fries knowing they would be his last meal." TIMESTAMP="2020-05-24"/>
+  <POSTS ID="876" USERID="133" TEXT="The skeleton had skeletons of his own in the closet." TIMESTAMP="2021-05-12"/>
+  <POSTS ID="877" USERID="827" TEXT="Facing his greatest fear, he ate his first marshmallow." TIMESTAMP="2022-07-16"/>
+  <POSTS ID="878" USERID="477" TEXT="The elephant didn&apos;t want to talk about the person in the room." TIMESTAMP="2021-05-09"/>
+  <POSTS ID="879" USERID="820" TEXT="Hit me with your pet shark!" TIMESTAMP="2022-02-20"/>
+  <POSTS ID="880" USERID="729" TEXT="Having no hair made him look even hairier." TIMESTAMP="2020-02-10"/>
+  <POSTS ID="881" USERID="886" TEXT="The old apple revels in its authority." TIMESTAMP="2022-03-26"/>
+  <POSTS ID="882" USERID="934" TEXT="Although it wasn&apos;t a pot of gold, Nancy was still enthralled at what she found at the end of the rainbow." TIMESTAMP="2021-03-08"/>
+  <POSTS ID="883" USERID="377" TEXT="Everybody should read Chaucer to improve their everyday vocabulary." TIMESTAMP="2021-09-30"/>
+  <POSTS ID="884" USERID="972" TEXT="The irony of the situation wasn&apos;t lost on anyone in the room." TIMESTAMP="2020-03-04"/>
+  <POSTS ID="885" USERID="958" TEXT="Honestly, I didn&apos;t care much for the first season, so I didn&apos;t bother with the second." TIMESTAMP="2020-05-30"/>
+  <POSTS ID="886" USERID="830" TEXT="Mothers spend months of their lives waiting on their children." TIMESTAMP="2021-03-08"/>
+  <POSTS ID="887" USERID="394" TEXT="Now I need to ponder my existence and ask myself if I&apos;m truly real" TIMESTAMP="2021-05-02"/>
+  <POSTS ID="888" USERID="446" TEXT="It didn&apos;t take long for Gary to detect the robbers were amateurs." TIMESTAMP="2020-05-20"/>
+  <POSTS ID="889" USERID="455" TEXT="I checked to make sure that he was still alive." TIMESTAMP="2022-03-03"/>
+  <POSTS ID="890" USERID="646" TEXT="He would only survive if he kept the fire going and he could hear thunder in the distance." TIMESTAMP="2020-04-19"/>
+  <POSTS ID="891" USERID="811" TEXT="Let me help you with your baggage." TIMESTAMP="2022-09-12"/>
+  <POSTS ID="892" USERID="217" TEXT="When motorists sped in and out of traffic, all she could think of was those in need of a transplant." TIMESTAMP="2022-06-01"/>
+  <POSTS ID="893" USERID="869" TEXT="Check back tomorrow, I will see if the book has arrived." TIMESTAMP="2020-01-16"/>
+  <POSTS ID="894" USERID="158" TEXT="I covered my friend in baby oil." TIMESTAMP="2020-08-16"/>
+  <POSTS ID="895" USERID="259" TEXT="I covered my friend in baby oil." TIMESTAMP="2020-01-31"/>
+  <POSTS ID="896" USERID="577" TEXT="She did not cheat on the test, for it was not the right thing to do." TIMESTAMP="2022-06-18"/>
+  <POSTS ID="897" USERID="336" TEXT="Going from child, to childish, to childlike is only a matter of time." TIMESTAMP="2020-07-21"/>
+  <POSTS ID="898" USERID="453" TEXT="He had decided to accept his fate of accepting his fate." TIMESTAMP="2021-01-03"/>
+  <POSTS ID="899" USERID="378" TEXT="25 years later, she still regretted that specific moment." TIMESTAMP="2020-03-08"/>
+  <POSTS ID="900" USERID="968" TEXT="The quick brown fox jumps over the lazy dog." TIMESTAMP="2021-02-03"/>
+  <POSTS ID="901" USERID="352" TEXT="Truth in advertising and dinosaurs with skateboards have much in common." TIMESTAMP="2022-02-03"/>
+  <POSTS ID="902" USERID="265" TEXT="As the rental car rolled to a stop on the dark road, her fear increased by the moment." TIMESTAMP="2020-08-03"/>
+  <POSTS ID="903" USERID="457" TEXT="Flying fish few by the space station." TIMESTAMP="2020-07-11"/>
+  <POSTS ID="904" USERID="691" TEXT="Swim at your own risk was taken as a challenge for the group of Kansas City college students." TIMESTAMP="2021-12-12"/>
+  <POSTS ID="905" USERID="15" TEXT="The thunderous roar of the jet overhead confirmed her worst fears." TIMESTAMP="2022-02-06"/>
+  <POSTS ID="906" USERID="976" TEXT="After exploring the abandoned building, he started to believe in ghosts." TIMESTAMP="2022-03-24"/>
+  <POSTS ID="907" USERID="423" TEXT="Combines are no longer just for farms." TIMESTAMP="2020-01-14"/>
+  <POSTS ID="908" USERID="190" TEXT="This is the last random sentence I will be writing and I am going to stop mid-sent" TIMESTAMP="2020-01-21"/>
+  <POSTS ID="909" USERID="519" TEXT="I want to buy a onesieвЂ¦ but know it wonвЂ™t suit me." TIMESTAMP="2021-03-04"/>
+  <POSTS ID="910" USERID="326" TEXT="He decided to fake his disappearance to avoid jail." TIMESTAMP="2020-12-29"/>
+  <POSTS ID="911" USERID="244" TEXT="The gloves protect my feet from excess work." TIMESTAMP="2022-08-21"/>
+  <POSTS ID="912" USERID="493" TEXT="He told us a very exciting adventure story." TIMESTAMP="2022-07-27"/>
+  <POSTS ID="913" USERID="953" TEXT="The urgent care center was flooded with patients after the news of a new deadly virus was made public." TIMESTAMP="2020-10-22"/>
+  <POSTS ID="914" USERID="698" TEXT="Weather is not trivial - it&apos;s especially important when you&apos;re standing in it." TIMESTAMP="2021-09-19"/>
+  <POSTS ID="915" USERID="655" TEXT="He fumbled in the darkness looking for the light switch, but when he finally found it there was someone already there." TIMESTAMP="2022-01-20"/>
+  <POSTS ID="916" USERID="505" TEXT="You realize you&apos;re not alone as you sit in your bedroom massaging your calves after a long day of playing tug-of-war with Grandpa Joe in the hospital." TIMESTAMP="2021-11-06"/>
+  <POSTS ID="917" USERID="293" TEXT="After exploring the abandoned building, he started to believe in ghosts." TIMESTAMP="2021-05-08"/>
+  <POSTS ID="918" USERID="1" TEXT="It turns out you don&apos;t need all that stuff you insisted you did." TIMESTAMP="2022-07-16"/>
+  <POSTS ID="919" USERID="853" TEXT="The door slammed on the watermelon." TIMESTAMP="2022-07-21"/>
+  <POSTS ID="920" USERID="344" TEXT="My Mum tries to be cool by saying that she likes all the same things that I do." TIMESTAMP="2021-07-02"/>
+  <POSTS ID="921" USERID="653" TEXT="The truth is that you pay for your lifestyle in hours." TIMESTAMP="2022-09-12"/>
+  <POSTS ID="922" USERID="197" TEXT="IвЂ™m a living furnace." TIMESTAMP="2022-10-12"/>
+  <POSTS ID="923" USERID="239" TEXT="Whenever he saw a red flag warning at the beach he grabbed his surfboard." TIMESTAMP="2022-03-30"/>
+  <POSTS ID="924" USERID="551" TEXT="The opportunity of a lifetime passed before him as he tried to decide between a cone or a cup." TIMESTAMP="2022-04-29"/>
+  <POSTS ID="925" USERID="193" TEXT="He had a wall full of masks so she could wear a different face every day." TIMESTAMP="2020-07-17"/>
+  <POSTS ID="926" USERID="669" TEXT="Choosing to do nothing is still a choice, after all." TIMESTAMP="2021-12-27"/>
+  <POSTS ID="927" USERID="682" TEXT="Each person who knows you has a different perception of who you are." TIMESTAMP="2020-10-25"/>
+  <POSTS ID="928" USERID="300" TEXT="Flying fish few by the space station." TIMESTAMP="2020-04-13"/>
+  <POSTS ID="929" USERID="271" TEXT="He quietly entered the museum as the super bowl started." TIMESTAMP="2022-06-14"/>
+  <POSTS ID="930" USERID="156" TEXT="The fifty mannequin heads floating in the pool kind of freaked them out." TIMESTAMP="2022-09-26"/>
+  <POSTS ID="931" USERID="829" TEXT="Nancy was proud that she ran a tight shipwreck." TIMESTAMP="2020-10-08"/>
+  <POSTS ID="932" USERID="214" TEXT="Although it wasn&apos;t a pot of gold, Nancy was still enthralled at what she found at the end of the rainbow." TIMESTAMP="2021-03-20"/>
+  <POSTS ID="933" USERID="87" TEXT="In that instant, everything changed." TIMESTAMP="2021-09-22"/>
+  <POSTS ID="934" USERID="884" TEXT="He is good at eating pickles and telling women about his emotional problems." TIMESTAMP="2022-02-16"/>
+  <POSTS ID="935" USERID="815" TEXT="Blue sounded too cold at the time and yet it seemed to work for gin." TIMESTAMP="2021-05-02"/>
+  <POSTS ID="936" USERID="315" TEXT="Nudist colonies shun fig-leaf couture." TIMESTAMP="2021-03-18"/>
+  <POSTS ID="937" USERID="909" TEXT="Jeanne wished she has chosen the red button." TIMESTAMP="2020-06-14"/>
+  <POSTS ID="938" USERID="204" TEXT="The light that burns twice as bright burns half as long." TIMESTAMP="2021-08-18"/>
+  <POSTS ID="939" USERID="209" TEXT="He learned the hardest lesson of his life and had the scars, both physical and mental, to prove it." TIMESTAMP="2021-09-08"/>
+  <POSTS ID="940" USERID="630" TEXT="It was the scarcity that fueled his creativity." TIMESTAMP="2022-04-21"/>
+  <POSTS ID="941" USERID="673" TEXT="Green should have smelled more tranquil, but somehow it just tasted rotten." TIMESTAMP="2021-12-27"/>
+  <POSTS ID="942" USERID="711" TEXT="It didn&apos;t take long for Gary to detect the robbers were amateurs." TIMESTAMP="2020-04-26"/>
+  <POSTS ID="943" USERID="262" TEXT="Jason lived his life by the motto, &quot;Anything worth doing is worth doing poorly." TIMESTAMP="2022-10-19"/>
+  <POSTS ID="944" USERID="378" TEXT="He stepped gingerly onto the bridge knowing that enchantment awaited on the other side." TIMESTAMP="2022-03-04"/>
+  <POSTS ID="945" USERID="544" TEXT="If my calculator had a history, it would be more embarrassing than my browser history." TIMESTAMP="2021-01-11"/>
+  <POSTS ID="946" USERID="736" TEXT="The mysterious diary records the voice." TIMESTAMP="2020-03-21"/>
+  <POSTS ID="947" USERID="280" TEXT="He decided to live his life by the big beats manifesto." TIMESTAMP="2020-07-09"/>
+  <POSTS ID="948" USERID="447" TEXT="The fact that there&apos;s a stairway to heaven and a highway to hell explains life well." TIMESTAMP="2021-09-03"/>
+  <POSTS ID="949" USERID="729" TEXT="I&apos;d rather be a bird than a fish." TIMESTAMP="2020-12-06"/>
+  <POSTS ID="950" USERID="897" TEXT="Her life in the confines of the house became her new normal." TIMESTAMP="2021-02-02"/>
+  <POSTS ID="951" USERID="450" TEXT="He walked into the basement with the horror movie from the night before playing in his head." TIMESTAMP="2020-12-14"/>
+  <POSTS ID="952" USERID="503" TEXT="He went on a whiskey diet and immediately lost three days." TIMESTAMP="2020-02-24"/>
+  <POSTS ID="953" USERID="291" TEXT="Facing his greatest fear, he ate his first marshmallow." TIMESTAMP="2021-05-21"/>
+  <POSTS ID="954" USERID="728" TEXT="He took one look at what was under the table and noped the hell out of there." TIMESTAMP="2020-11-09"/>
+  <POSTS ID="955" USERID="105" TEXT="They&apos;re playing the piano while flying in the plane." TIMESTAMP="2020-01-25"/>
+  <POSTS ID="956" USERID="636" TEXT="They&apos;re playing the piano while flying in the plane." TIMESTAMP="2022-08-15"/>
+  <POSTS ID="957" USERID="490" TEXT="He uses onomatopoeia as a weapon of mental destruction." TIMESTAMP="2021-08-14"/>
+  <POSTS ID="958" USERID="108" TEXT="There&apos;s a message for you if you look up." TIMESTAMP="2021-06-11"/>
+  <POSTS ID="959" USERID="693" TEXT="He colored deep space a soft yellow." TIMESTAMP="2022-04-21"/>
+  <POSTS ID="960" USERID="886" TEXT="The rain pelted the windshield as the darkness engulfed us." TIMESTAMP="2021-12-20"/>
+  <POSTS ID="961" USERID="67" TEXT="She found his complete dullness interesting." TIMESTAMP="2021-11-28"/>
+  <POSTS ID="962" USERID="50" TEXT="The minute she landed she understood the reason this was a fly-over state." TIMESTAMP="2020-11-10"/>
+  <POSTS ID="963" USERID="451" TEXT="Had he known what was going to happen, he would have never stepped into the shower." TIMESTAMP="2022-01-10"/>
+  <POSTS ID="964" USERID="808" TEXT="The fact that there&apos;s a stairway to heaven and a highway to hell explains life well." TIMESTAMP="2021-09-30"/>
+  <POSTS ID="965" USERID="926" TEXT="Karen realized the only way she was getting into heaven was to cheat." TIMESTAMP="2021-06-05"/>
+  <POSTS ID="966" USERID="442" TEXT="The sun had set and so had his dreams." TIMESTAMP="2020-03-26"/>
+  <POSTS ID="967" USERID="519" TEXT="He barked orders at his daughters but they just stared back with amusement." TIMESTAMP="2022-03-29"/>
+  <POSTS ID="968" USERID="988" TEXT="His confidence would have bee admirable if it wasn&apos;t for his stupidity." TIMESTAMP="2022-05-03"/>
+  <POSTS ID="969" USERID="481" TEXT="The Great Dane looked more like a horse than a dog." TIMESTAMP="2020-09-07"/>
+  <POSTS ID="970" USERID="934" TEXT="The secret ingredient to his wonderful life was crime." TIMESTAMP="2020-01-25"/>
+  <POSTS ID="971" USERID="654" TEXT="Fluffy pink unicorns are a popular status symbol among macho men." TIMESTAMP="2022-05-07"/>
+  <POSTS ID="972" USERID="159" TEXT="There are no heroes in a punk rock band." TIMESTAMP="2022-06-20"/>
+  <POSTS ID="973" USERID="623" TEXT="She wasn&apos;t sure whether to be impressed or concerned that he folded underwear in neat little packages." TIMESTAMP="2020-10-20"/>
+  <POSTS ID="974" USERID="964" TEXT="She saw no irony asking me to change but wanting me to accept her for who she is." TIMESTAMP="2020-10-18"/>
+  <POSTS ID="975" USERID="275" TEXT="Even though he thought the world was flat he didnвЂ™t see the irony of wanting to travel around the world." TIMESTAMP="2021-02-03"/>
+  <POSTS ID="976" USERID="814" TEXT="Everybody should read Chaucer to improve their everyday vocabulary." TIMESTAMP="2021-02-07"/>
+  <POSTS ID="977" USERID="701" TEXT="She did a happy dance because all of the socks from the dryer matched." TIMESTAMP="2021-08-06"/>
+  <POSTS ID="978" USERID="10" TEXT="A dead duck doesn&apos;t fly backward." TIMESTAMP="2020-07-10"/>
+  <POSTS ID="979" USERID="544" TEXT="She only paints with bold colors, she does not like pastels." TIMESTAMP="2020-06-11"/>
+  <POSTS ID="980" USERID="493" TEXT="When transplanting seedlings, candied teapots will make the task easier." TIMESTAMP="2021-10-21"/>
+  <POSTS ID="981" USERID="617" TEXT="There were white out conditions in the town, subsequently, the roads were impassable." TIMESTAMP="2021-09-22"/>
+  <POSTS ID="982" USERID="514" TEXT="The wake behind the boat told of the past while the open sea for told life in the unknown future." TIMESTAMP="2021-09-09"/>
+  <POSTS ID="983" USERID="43" TEXT="She wanted a pet platypus but ended up getting a duck and a ferret instead." TIMESTAMP="2020-01-04"/>
+  <POSTS ID="984" USERID="986" TEXT="I may struggle with geography, but I&apos;m sure I&apos;m somewhere around here." TIMESTAMP="2022-02-22"/>
+  <POSTS ID="985" USERID="179" TEXT="Having no hair made him look even hairier." TIMESTAMP="2022-08-11"/>
+  <POSTS ID="986" USERID="14" TEXT="He decided that the time had come to be stronger than any of the excuses he&apos;d used until then." TIMESTAMP="2021-03-27"/>
+  <POSTS ID="987" USERID="709" TEXT="The sky is clear, the stars are twinkling." TIMESTAMP="2020-06-14"/>
+  <POSTS ID="988" USERID="694" TEXT="I hear that Nancy is very pretty." TIMESTAMP="2020-01-19"/>
+  <POSTS ID="989" USERID="523" TEXT="The toy brought back fond memories of being lost in the rain forest." TIMESTAMP="2021-04-23"/>
+  <POSTS ID="990" USERID="668" TEXT="He went back to the video to see what had been recorded and was shocked at what he saw." TIMESTAMP="2020-10-18"/>
+  <POSTS ID="991" USERID="983" TEXT="He embraced his new life as an eggplant." TIMESTAMP="2021-06-20"/>
+  <POSTS ID="992" USERID="402" TEXT="I checked to make sure that he was still alive." TIMESTAMP="2020-11-30"/>
+  <POSTS ID="993" USERID="634" TEXT="It&apos;s a skateboarding penguin with a sunhat!" TIMESTAMP="2022-03-23"/>
+  <POSTS ID="994" USERID="756" TEXT="Although it wasn&apos;t a pot of gold, Nancy was still enthralled at what she found at the end of the rainbow." TIMESTAMP="2022-10-16"/>
+  <POSTS ID="995" USERID="977" TEXT="The beauty of the African sunset disguised the danger lurking nearby." TIMESTAMP="2022-03-01"/>
+  <POSTS ID="996" USERID="577" TEXT="The snow-covered path was no help in finding his way out of the back-country." TIMESTAMP="2020-03-05"/>
+  <POSTS ID="997" USERID="979" TEXT="She finally understood that grief was her love with no place for it to go." TIMESTAMP="2021-02-15"/>
+  <POSTS ID="998" USERID="573" TEXT="When I cook spaghetti, I like to boil it a few minutes past al dente so the noodles are super slippery." TIMESTAMP="2020-06-19"/>
+  <POSTS ID="999" USERID="392" TEXT="He was so preoccupied with whether or not he could that he failed to stop to consider if he should." TIMESTAMP="2020-09-14"/>
+  <POSTS ID="1000" USERID="325" TEXT="He was an introvert that extroverts seemed to love." TIMESTAMP="2021-10-29"/>
+  <POSTS ID="1001" USERID="590" TEXT="Don&apos;t step on the broken glass." TIMESTAMP="2021-09-12"/>
+  <POSTS ID="1002" USERID="355" TEXT="Someone I know recently combined Maple Syrup &amp; buttered Popcorn thinking it would taste like caramel popcorn. It didnвЂ™t and they donвЂ™t recommend anyone else do it either." TIMESTAMP="2022-01-14"/>
+  <POSTS ID="1003" USERID="497" TEXT="It&apos;s much more difficult to play tennis with a bowling ball than it is to bowl with a tennis ball." TIMESTAMP="2022-04-24"/>
+  <POSTS ID="1004" USERID="171" TEXT="Gary didn&apos;t understand why Doug went upstairs to get one dollar bills when he invited him to go cow tipping." TIMESTAMP="2021-10-08"/>
+  <POSTS ID="1005" USERID="462" TEXT="Lightning Paradise was the local hangout joint where the group usually ended up spending the night." TIMESTAMP="2021-09-15"/>
+  <POSTS ID="1006" USERID="575" TEXT="The lake is a long way from here." TIMESTAMP="2021-03-21"/>
+  <POSTS ID="1007" USERID="727" TEXT="The clock within this blog and the clock on my laptop are 1 hour different from each other." TIMESTAMP="2020-07-14"/>
+  <POSTS ID="1008" USERID="85" TEXT="The blinking lights of the antenna tower came into focus just as I heard a loud snap." TIMESTAMP="2021-11-29"/>
+  <POSTS ID="1009" USERID="66" TEXT="They&apos;re playing the piano while flying in the plane." TIMESTAMP="2020-06-26"/>
+  <POSTS ID="1010" USERID="465" TEXT="He was an introvert that extroverts seemed to love." TIMESTAMP="2021-01-21"/>
+  <POSTS ID="1011" USERID="503" TEXT="Happiness can be found in the depths of chocolate pudding." TIMESTAMP="2020-06-22"/>
+  <POSTS ID="1012" USERID="991" TEXT="The beach was crowded with snow leopards." TIMESTAMP="2021-02-24"/>
+  <POSTS ID="1013" USERID="476" TEXT="Today we gathered moss for my uncle&apos;s wedding." TIMESTAMP="2020-09-29"/>
+  <POSTS ID="1014" USERID="929" TEXT="Tuesdays are free if you bring a gnome costume." TIMESTAMP="2020-11-29"/>
+  <POSTS ID="1015" USERID="26" TEXT="She moved forward only because she trusted that the ending she now was going through must be followed by a new beginning." TIMESTAMP="2021-05-15"/>
+  <POSTS ID="1016" USERID="287" TEXT="He dreamed of eating green apples with worms." TIMESTAMP="2022-04-09"/>
+  <POSTS ID="1017" USERID="713" TEXT="The sky is clear, the stars are twinkling." TIMESTAMP="2022-01-09"/>
+  <POSTS ID="1018" USERID="514" TEXT="Honestly, I didn&apos;t care much for the first season, so I didn&apos;t bother with the second." TIMESTAMP="2021-08-02"/>
+  <POSTS ID="1019" USERID="124" TEXT="25 years later, she still regretted that specific moment." TIMESTAMP="2020-11-16"/>
+  <POSTS ID="1020" USERID="915" TEXT="He went on a whiskey diet and immediately lost three days." TIMESTAMP="2021-08-29"/>
+  <POSTS ID="1021" USERID="733" TEXT="You&apos;ll see the rainbow bridge after it rains cats and dogs." TIMESTAMP="2022-09-03"/>
+  <POSTS ID="1022" USERID="439" TEXT="Today arrived with a crash of my car through the garage door." TIMESTAMP="2020-02-09"/>
+  <POSTS ID="1023" USERID="244" TEXT="He ran out of money, so he had to stop playing poker." TIMESTAMP="2022-06-24"/>
+  <POSTS ID="1024" USERID="195" TEXT="He uses onomatopoeia as a weapon of mental destruction." TIMESTAMP="2020-01-20"/>
+  <POSTS ID="1025" USERID="802" TEXT="The secret ingredient to his wonderful life was crime." TIMESTAMP="2022-03-11"/>
+  <POSTS ID="1026" USERID="227" TEXT="There should have been a time and a place, but this wasn&apos;t it." TIMESTAMP="2020-06-05"/>
+  <POSTS ID="1027" USERID="739" TEXT="She always speaks to him in a loud voice." TIMESTAMP="2021-12-29"/>
+  <POSTS ID="1028" USERID="140" TEXT="It had been sixteen days since the zombies first attacked." TIMESTAMP="2021-04-20"/>
+  <POSTS ID="1029" USERID="268" TEXT="It was her first experience training a rainbow unicorn." TIMESTAMP="2020-06-03"/>
+  <POSTS ID="1030" USERID="573" TEXT="He put heat on the wound to see what would grow." TIMESTAMP="2022-05-17"/>
+  <POSTS ID="1031" USERID="466" TEXT="Iguanas were falling out of the trees." TIMESTAMP="2021-09-01"/>
+  <POSTS ID="1032" USERID="379" TEXT="It was her first experience training a rainbow unicorn." TIMESTAMP="2020-11-04"/>
+  <POSTS ID="1033" USERID="262" TEXT="It doesn&apos;t sound like that will ever be on my travel list." TIMESTAMP="2020-04-06"/>
+  <POSTS ID="1034" USERID="723" TEXT="They called out her name time and again, but were met with nothing but silence." TIMESTAMP="2022-03-02"/>
+  <POSTS ID="1035" USERID="144" TEXT="Charles ate the french fries knowing they would be his last meal." TIMESTAMP="2022-07-22"/>
+  <POSTS ID="1036" USERID="143" TEXT="Happiness can be found in the depths of chocolate pudding." TIMESTAMP="2021-10-09"/>
+  <POSTS ID="1037" USERID="505" TEXT="The fox in the tophat whispered into the ear of the rabbit." TIMESTAMP="2021-01-08"/>
+  <POSTS ID="1038" USERID="474" TEXT="Of course, she loves her pink bunny slippers." TIMESTAMP="2022-09-29"/>
+  <POSTS ID="1039" USERID="348" TEXT="He was sure the Devil created red sparkly glitter." TIMESTAMP="2021-03-24"/>
+  <POSTS ID="1040" USERID="791" TEXT="Not all people who wander are lost." TIMESTAMP="2022-04-22"/>
+  <POSTS ID="1041" USERID="260" TEXT="You have every right to be angry, but that doesn&apos;t give you the right to be mean." TIMESTAMP="2020-07-07"/>
+  <POSTS ID="1042" USERID="785" TEXT="Peanut butter and jelly caused the elderly lady to think about her past." TIMESTAMP="2022-01-28"/>
+  <POSTS ID="1043" USERID="940" TEXT="I&apos;d rather be a bird than a fish." TIMESTAMP="2022-02-22"/>
+  <POSTS ID="1044" USERID="188" TEXT="Three generations with six decades of life experience." TIMESTAMP="2021-11-18"/>
+  <POSTS ID="1045" USERID="209" TEXT="Iguanas were falling out of the trees." TIMESTAMP="2022-03-02"/>
+  <POSTS ID="1046" USERID="720" TEXT="Everyone was curious about the large white blimp that appeared overnight." TIMESTAMP="2021-04-27"/>
+  <POSTS ID="1047" USERID="609" TEXT="He spiked his hair green to support his iguana." TIMESTAMP="2020-08-18"/>
+  <POSTS ID="1048" USERID="944" TEXT="It was the scarcity that fueled his creativity." TIMESTAMP="2020-07-26"/>
+  <POSTS ID="1049" USERID="511" TEXT="Gary didn&apos;t understand why Doug went upstairs to get one dollar bills when he invited him to go cow tipping." TIMESTAMP="2022-06-27"/>
+  <POSTS ID="1050" USERID="745" TEXT="He looked behind the door and didn&apos;t like what he saw." TIMESTAMP="2021-04-19"/>
+  <POSTS ID="1051" USERID="926" TEXT="The crowd yells and screams for more memes." TIMESTAMP="2020-10-29"/>
+  <POSTS ID="1052" USERID="58" TEXT="She can live her life however she wants as long as she listens to what I have to say." TIMESTAMP="2022-03-29"/>
+  <POSTS ID="1053" USERID="476" TEXT="As he waited for the shower to warm, he noticed that he could hear water change temperature." TIMESTAMP="2020-05-08"/>
+  <POSTS ID="1054" USERID="518" TEXT="The spa attendant applied the deep cleaning mask to the gentlemanвЂ™s back." TIMESTAMP="2020-12-28"/>
+  <POSTS ID="1055" USERID="659" TEXT="The skeleton had skeletons of his own in the closet." TIMESTAMP="2021-10-25"/>
+  <POSTS ID="1056" USERID="207" TEXT="I would be delighted if the sea were full of cucumber juice." TIMESTAMP="2021-03-06"/>
+  <POSTS ID="1057" USERID="106" TEXT="The pigs were insulted that they were named hamburgers." TIMESTAMP="2022-07-03"/>
+  <POSTS ID="1058" USERID="604" TEXT="He found rain fascinating yet unpleasant." TIMESTAMP="2022-03-09"/>
+  <POSTS ID="1059" USERID="372" TEXT="He barked orders at his daughters but they just stared back with amusement." TIMESTAMP="2021-01-07"/>
+  <POSTS ID="1060" USERID="725" TEXT="You bite up because of your lower jaw." TIMESTAMP="2020-10-15"/>
+  <POSTS ID="1061" USERID="960" TEXT="He had a wall full of masks so she could wear a different face every day." TIMESTAMP="2021-10-10"/>
+  <POSTS ID="1062" USERID="149" TEXT="They got there early, and they got really good seats." TIMESTAMP="2021-03-12"/>
+  <POSTS ID="1063" USERID="135" TEXT="Smoky the Bear secretly started the fires." TIMESTAMP="2021-06-11"/>
+  <POSTS ID="1064" USERID="822" TEXT="She could hear him in the shower singing with a joy she hoped he&apos;d retain after she delivered the news." TIMESTAMP="2020-10-14"/>
+  <POSTS ID="1065" USERID="671" TEXT="We have a lot of rain in June." TIMESTAMP="2020-12-19"/>
+  <POSTS ID="1066" USERID="386" TEXT="The beach was crowded with snow leopards." TIMESTAMP="2022-04-11"/>
+  <POSTS ID="1067" USERID="926" TEXT="Two more days and all his problems would be solved." TIMESTAMP="2021-11-22"/>
+  <POSTS ID="1068" USERID="526" TEXT="If I donвЂ™t like something, IвЂ™ll stay away from it." TIMESTAMP="2020-10-26"/>
+  <POSTS ID="1069" USERID="215" TEXT="They were excited to see their first sloth." TIMESTAMP="2022-04-05"/>
+  <POSTS ID="1070" USERID="822" TEXT="He was sure the Devil created red sparkly glitter." TIMESTAMP="2021-06-07"/>
+  <POSTS ID="1071" USERID="415" TEXT="At that moment she realized she had a sixth sense." TIMESTAMP="2022-08-02"/>
+  <POSTS ID="1072" USERID="896" TEXT="She is never happy until she finds something to be unhappy about, then, she is overjoyed." TIMESTAMP="2020-03-01"/>
+  <POSTS ID="1073" USERID="607" TEXT="He wasn&apos;t bitter that she had moved on but from the radish." TIMESTAMP="2020-08-10"/>
+  <POSTS ID="1074" USERID="349" TEXT="The hand sanitizer was actually clear glue." TIMESTAMP="2020-01-10"/>
+  <POSTS ID="1075" USERID="64" TEXT="The sky is clear, the stars are twinkling." TIMESTAMP="2022-04-30"/>
+  <POSTS ID="1076" USERID="177" TEXT="He was surprised that his immense laziness was inspirational to others." TIMESTAMP="2020-07-15"/>
+  <POSTS ID="1077" USERID="196" TEXT="The stranger officiates the meal." TIMESTAMP="2021-01-02"/>
+  <POSTS ID="1078" USERID="266" TEXT="Yeah, I think it&apos;s a good environment for learning English." TIMESTAMP="2022-07-20"/>
+  <POSTS ID="1079" USERID="334" TEXT="She did her best to help him." TIMESTAMP="2020-04-20"/>
+  <POSTS ID="1080" USERID="321" TEXT="Carol drank the blood as if she were a vampire." TIMESTAMP="2020-07-02"/>
+  <POSTS ID="1081" USERID="760" TEXT="Warm beer on a cold day isn&apos;t my idea of fun." TIMESTAMP="2020-11-01"/>
+  <POSTS ID="1082" USERID="405" TEXT="The near-death experience brought new ideas to light." TIMESTAMP="2020-07-14"/>
+  <POSTS ID="1083" USERID="711" TEXT="To the surprise of everyone, the Rapture happened yesterday but it didn&apos;t quite go as expected." TIMESTAMP="2021-07-06"/>
+  <POSTS ID="1084" USERID="791" TEXT="He took one look at what was under the table and noped the hell out of there." TIMESTAMP="2021-01-09"/>
+  <POSTS ID="1085" USERID="989" TEXT="The beauty of the African sunset disguised the danger lurking nearby." TIMESTAMP="2022-04-06"/>
+  <POSTS ID="1086" USERID="592" TEXT="The beauty of the African sunset disguised the danger lurking nearby." TIMESTAMP="2020-01-13"/>
+  <POSTS ID="1087" USERID="949" TEXT="They got there early, and they got really good seats." TIMESTAMP="2020-06-01"/>
+  <POSTS ID="1088" USERID="156" TEXT="The murder hornet was disappointed by the preconceived ideas people had of him." TIMESTAMP="2021-11-26"/>
+  <POSTS ID="1089" USERID="828" TEXT="You&apos;ll see the rainbow bridge after it rains cats and dogs." TIMESTAMP="2020-07-04"/>
+  <POSTS ID="1090" USERID="281" TEXT="Rock music approaches at high velocity." TIMESTAMP="2020-07-01"/>
+  <POSTS ID="1091" USERID="254" TEXT="She had a habit of taking showers in lemonade." TIMESTAMP="2022-10-03"/>
+  <POSTS ID="1092" USERID="206" TEXT="He always wore his sunglasses at night." TIMESTAMP="2021-08-11"/>
+  <POSTS ID="1093" USERID="210" TEXT="A suit of armor provides excellent sun protection on hot days." TIMESTAMP="2020-08-18"/>
+  <POSTS ID="1094" USERID="850" TEXT="He had a wall full of masks so she could wear a different face every day." TIMESTAMP="2020-07-07"/>
+  <POSTS ID="1095" USERID="682" TEXT="She looked at the masterpiece hanging in the museum but all she could think is that her five-year-old could do better." TIMESTAMP="2021-07-29"/>
+  <POSTS ID="1096" USERID="612" TEXT="The group quickly understood that toxic waste was the most effective barrier to use against the zombies." TIMESTAMP="2020-06-06"/>
+  <POSTS ID="1097" USERID="248" TEXT="The light in his life was actually a fire burning all around him." TIMESTAMP="2020-10-21"/>
+  <POSTS ID="1098" USERID="470" TEXT="They wandered into a strange Tiki bar on the edge of the small beach town." TIMESTAMP="2021-03-09"/>
+  <POSTS ID="1099" USERID="235" TEXT="She looked into the mirror and saw another person." TIMESTAMP="2021-07-22"/>
+  <POSTS ID="1100" USERID="349" TEXT="Improve your goldfish&apos;s physical fitness by getting him a bicycle." TIMESTAMP="2021-09-09"/>
+  <POSTS ID="1101" USERID="265" TEXT="It was obvious she was hot, sweaty, and tired." TIMESTAMP="2021-12-22"/>
+  <POSTS ID="1102" USERID="706" TEXT="Flying fish few by the space station." TIMESTAMP="2020-12-24"/>
+  <POSTS ID="1103" USERID="255" TEXT="The sun had set and so had his dreams." TIMESTAMP="2020-05-06"/>
+  <POSTS ID="1104" USERID="867" TEXT="The complicated school homework left the parents trying to help their kids quite confused." TIMESTAMP="2021-04-03"/>
+  <POSTS ID="1105" USERID="184" TEXT="She had convinced her kids that any mushroom found on the ground would kill them if they touched it." TIMESTAMP="2022-03-02"/>
+  <POSTS ID="1106" USERID="806" TEXT="I thought red would have felt warmer in summer but I didn&apos;t think about the equator." TIMESTAMP="2022-06-13"/>
+  <POSTS ID="1107" USERID="468" TEXT="The sign said there was road work ahead so he decided to speed up." TIMESTAMP="2022-09-05"/>
+  <POSTS ID="1108" USERID="42" TEXT="You&apos;re unsure whether or not to trust him, but very thankful that you wore a turtle neck." TIMESTAMP="2020-12-09"/>
+  <POSTS ID="1109" USERID="420" TEXT="Had he known what was going to happen, he would have never stepped into the shower." TIMESTAMP="2022-07-16"/>
+  <POSTS ID="1110" USERID="716" TEXT="Check back tomorrow, I will see if the book has arrived." TIMESTAMP="2020-08-13"/>
+  <POSTS ID="1111" USERID="10" TEXT="It was getting dark, and we werenвЂ™t there yet." TIMESTAMP="2020-07-19"/>
+  <POSTS ID="1112" USERID="45" TEXT="She wondered what his eyes were saying beneath his mirrored sunglasses." TIMESTAMP="2022-07-07"/>
+  <POSTS ID="1113" USERID="763" TEXT="Art doesn&apos;t have to be intentional." TIMESTAMP="2022-05-11"/>
+  <POSTS ID="1114" USERID="337" TEXT="To the surprise of everyone, the Rapture happened yesterday but it didn&apos;t quite go as expected." TIMESTAMP="2021-02-22"/>
+  <POSTS ID="1115" USERID="857" TEXT="The lake is a long way from here." TIMESTAMP="2022-03-10"/>
+  <POSTS ID="1116" USERID="484" TEXT="Andy loved to sleep on a bed of nails." TIMESTAMP="2021-11-08"/>
+  <POSTS ID="1117" USERID="951" TEXT="I really want to go to work, but I am too sick to drive." TIMESTAMP="2022-07-05"/>
+  <POSTS ID="1118" USERID="666" TEXT="She cried diamonds." TIMESTAMP="2020-03-02"/>
+  <POSTS ID="1119" USERID="99" TEXT="The trick to getting kids to eat anything is to put catchup on it." TIMESTAMP="2021-04-20"/>
+  <POSTS ID="1120" USERID="268" TEXT="Even though he thought the world was flat he didnвЂ™t see the irony of wanting to travel around the world." TIMESTAMP="2021-06-02"/>
+  <POSTS ID="1121" USERID="698" TEXT="I would be delighted if the sea were full of cucumber juice." TIMESTAMP="2021-06-17"/>
+  <POSTS ID="1122" USERID="686" TEXT="When he had to picnic on the beach, he purposely put sand in other peopleвЂ™s food." TIMESTAMP="2022-04-30"/>
+  <POSTS ID="1123" USERID="415" TEXT="Sometimes it is better to just walk away from things and go back to them later when youвЂ™re in a better frame of mind." TIMESTAMP="2021-09-11"/>
+  <POSTS ID="1124" USERID="984" TEXT="Nobody questions who built the pyramids in Mexico." TIMESTAMP="2020-05-13"/>
+  <POSTS ID="1125" USERID="377" TEXT="As the asteroid hurtled toward earth, Becky was upset her dentist appointment had been canceled." TIMESTAMP="2021-04-25"/>
+  <POSTS ID="1126" USERID="275" TEXT="Last Friday I saw a spotted striped blue worm shake hands with a legless lizard." TIMESTAMP="2022-03-24"/>
+  <POSTS ID="1127" USERID="900" TEXT="Tom got a small piece of pie." TIMESTAMP="2022-07-25"/>
+  <POSTS ID="1128" USERID="641" TEXT="She saw no irony asking me to change but wanting me to accept her for who she is." TIMESTAMP="2021-01-11"/>
+  <POSTS ID="1129" USERID="995" TEXT="The truth is that you pay for your lifestyle in hours." TIMESTAMP="2021-05-25"/>
+  <POSTS ID="1130" USERID="668" TEXT="She let the balloon float up into the air with her hopes and dreams." TIMESTAMP="2020-10-13"/>
+  <POSTS ID="1131" USERID="368" TEXT="Tuesdays are free if you bring a gnome costume." TIMESTAMP="2020-01-30"/>
+  <POSTS ID="1132" USERID="170" TEXT="There were white out conditions in the town, subsequently, the roads were impassable." TIMESTAMP="2021-05-04"/>
+  <POSTS ID="1133" USERID="280" TEXT="The tattered work gloves speak of the many hours of hard labor he endured throughout his life." TIMESTAMP="2021-07-31"/>
+  <POSTS ID="1134" USERID="367" TEXT="It&apos;s not possible to convince a monkey to give you a banana by promising it infinite bananas when they die." TIMESTAMP="2021-05-20"/>
+  <POSTS ID="1135" USERID="269" TEXT="His confidence would have bee admirable if it wasn&apos;t for his stupidity." TIMESTAMP="2022-06-28"/>
+  <POSTS ID="1136" USERID="998" TEXT="Weather is not trivial - it&apos;s especially important when you&apos;re standing in it." TIMESTAMP="2022-09-20"/>
+  <POSTS ID="1137" USERID="465" TEXT="David proudly graduated from high school top of his class at age 97." TIMESTAMP="2022-07-28"/>
+  <POSTS ID="1138" USERID="695" TEXT="He colored deep space a soft yellow." TIMESTAMP="2021-04-19"/>
+  <POSTS ID="1139" USERID="347" TEXT="I purchased a baby clown from the Russian terrorist black market." TIMESTAMP="2020-02-13"/>
+  <POSTS ID="1140" USERID="463" TEXT="Lets all be unique together until we realise we are all the same." TIMESTAMP="2020-12-09"/>
+  <POSTS ID="1141" USERID="62" TEXT="Lucifer was surprised at the amount of life at Death Valley." TIMESTAMP="2020-03-05"/>
+  <POSTS ID="1142" USERID="929" TEXT="Writing a list of random sentences is harder than I initially thought it would be." TIMESTAMP="2021-02-11"/>
+  <POSTS ID="1143" USERID="914" TEXT="No matter how beautiful the sunset, it saddened her knowing she was one day older." TIMESTAMP="2020-02-15"/>
+  <POSTS ID="1144" USERID="444" TEXT="Shakespeare was a famous 17th-century diesel mechanic." TIMESTAMP="2021-11-14"/>
+  <POSTS ID="1145" USERID="120" TEXT="Various sea birds are elegant, but nothing is as elegant as a gliding pelican." TIMESTAMP="2021-10-30"/>
+  <POSTS ID="1146" USERID="731" TEXT="Harrold felt confident that nobody would ever suspect his spy pigeon." TIMESTAMP="2021-10-02"/>
+  <POSTS ID="1147" USERID="929" TEXT="He enjoys practicing his ballet in the bathroom." TIMESTAMP="2020-01-11"/>
+  <POSTS ID="1148" USERID="864" TEXT="Don&apos;t piss in my garden and tell me you&apos;re trying to help my plants grow." TIMESTAMP="2020-10-25"/>
+  <POSTS ID="1149" USERID="554" TEXT="The sunblock was handed to the girl before practice, but the burned skin was proof she did not apply it." TIMESTAMP="2020-03-20"/>
+  <POSTS ID="1150" USERID="373" TEXT="When nobody is around, the trees gossip about the people who have walked under them." TIMESTAMP="2020-03-17"/>
+  <POSTS ID="1151" USERID="571" TEXT="When motorists sped in and out of traffic, all she could think of was those in need of a transplant." TIMESTAMP="2022-05-28"/>
+  <POSTS ID="1152" USERID="36" TEXT="Sometimes, all you need to do is completely make an ass of yourself and laugh it off to realise that life isnвЂ™t so bad after all." TIMESTAMP="2020-08-24"/>
+  <POSTS ID="1153" USERID="436" TEXT="It was a slippery slope and he was willing to slide all the way to the deepest depths." TIMESTAMP="2021-12-02"/>
+  <POSTS ID="1154" USERID="148" TEXT="They desperately needed another drummer since the current one only knew how to play bongos." TIMESTAMP="2021-12-24"/>
+  <POSTS ID="1155" USERID="793" TEXT="Flesh-colored yoga pants were far worse than even he feared." TIMESTAMP="2022-07-23"/>
+  <POSTS ID="1156" USERID="792" TEXT="The fish listened intently to what the frogs had to say." TIMESTAMP="2022-02-22"/>
+  <POSTS ID="1157" USERID="252" TEXT="I checked to make sure that he was still alive." TIMESTAMP="2020-03-12"/>
+  <POSTS ID="1158" USERID="640" TEXT="The shooter says goodbye to his love." TIMESTAMP="2020-05-01"/>
+  <POSTS ID="1159" USERID="672" TEXT="It turns out you don&apos;t need all that stuff you insisted you did." TIMESTAMP="2021-07-06"/>
+  <POSTS ID="1160" USERID="680" TEXT="The stranger officiates the meal." TIMESTAMP="2022-03-02"/>
+  <POSTS ID="1161" USERID="370" TEXT="The hummingbird&apos;s wings blurred while it eagerly sipped the sugar water from the feeder." TIMESTAMP="2021-03-26"/>
+  <POSTS ID="1162" USERID="591" TEXT="He was willing to find the depths of the rabbit hole in order to be with her." TIMESTAMP="2022-09-10"/>
+  <POSTS ID="1163" USERID="234" TEXT="They ran around the corner to find that they had traveled back in time." TIMESTAMP="2020-01-31"/>
+  <POSTS ID="1164" USERID="565" TEXT="A song can make or ruin a personвЂ™s day if they let it get to them." TIMESTAMP="2022-03-10"/>
+  <POSTS ID="1165" USERID="624" TEXT="Pair your designer cowboy hat with scuba gear for a memorable occasion." TIMESTAMP="2022-03-03"/>
+  <POSTS ID="1166" USERID="299" TEXT="Whenever he saw a red flag warning at the beach he grabbed his surfboard." TIMESTAMP="2022-07-10"/>
+  <POSTS ID="1167" USERID="299" TEXT="Garlic ice-cream was her favorite." TIMESTAMP="2022-09-16"/>
+  <POSTS ID="1168" USERID="579" TEXT="It was her first experience training a rainbow unicorn." TIMESTAMP="2022-05-19"/>
+  <POSTS ID="1169" USERID="972" TEXT="Hit me with your pet shark!" TIMESTAMP="2021-09-12"/>
+  <POSTS ID="1170" USERID="334" TEXT="He wasn&apos;t bitter that she had moved on but from the radish." TIMESTAMP="2020-12-06"/>
+  <POSTS ID="1171" USERID="721" TEXT="The three-year-old girl ran down the beach as the kite flew behind her." TIMESTAMP="2021-10-28"/>
+  <POSTS ID="1172" USERID="538" TEXT="She finally understood that grief was her love with no place for it to go." TIMESTAMP="2020-10-01"/>
+  <POSTS ID="1173" USERID="625" TEXT="Rock music approaches at high velocity." TIMESTAMP="2020-08-26"/>
+  <POSTS ID="1174" USERID="318" TEXT="The ants enjoyed the barbecue more than the family." TIMESTAMP="2022-05-17"/>
+  <POSTS ID="1175" USERID="680" TEXT="They improved dramatically once the lead singer left." TIMESTAMP="2021-10-24"/>
+  <POSTS ID="1176" USERID="989" TEXT="Dolores wouldn&apos;t have eaten the meal if she had known what it actually was." TIMESTAMP="2021-04-16"/>
+  <POSTS ID="1177" USERID="522" TEXT="She finally understood that grief was her love with no place for it to go." TIMESTAMP="2021-07-10"/>
+  <POSTS ID="1178" USERID="172" TEXT="Toddlers feeding raccoons surprised even the seasoned park ranger." TIMESTAMP="2021-12-17"/>
+  <POSTS ID="1179" USERID="187" TEXT="The three-year-old girl ran down the beach as the kite flew behind her." TIMESTAMP="2021-02-05"/>
+  <POSTS ID="1180" USERID="600" TEXT="He created a pig burger out of beef." TIMESTAMP="2022-01-21"/>
+  <POSTS ID="1181" USERID="945" TEXT="If eating three-egg omelets causes weight-gain, budgie eggs are a good substitute." TIMESTAMP="2022-06-25"/>
+  <POSTS ID="1182" USERID="776" TEXT="Someone I know recently combined Maple Syrup &amp; buttered Popcorn thinking it would taste like caramel popcorn. It didnвЂ™t and they donвЂ™t recommend anyone else do it either." TIMESTAMP="2020-06-10"/>
+  <POSTS ID="1183" USERID="874" TEXT="Her life in the confines of the house became her new normal." TIMESTAMP="2021-02-17"/>
+  <POSTS ID="1184" USERID="33" TEXT="Some bathing suits just shouldnвЂ™t be worn by some people." TIMESTAMP="2021-10-02"/>
+  <POSTS ID="1185" USERID="559" TEXT="He found the chocolate covered roaches quite tasty." TIMESTAMP="2021-08-28"/>
+  <POSTS ID="1186" USERID="264" TEXT="A glittering gem is not enough." TIMESTAMP="2021-05-03"/>
+  <POSTS ID="1187" USERID="41" TEXT="The rain pelted the windshield as the darkness engulfed us." TIMESTAMP="2021-07-05"/>
+  <POSTS ID="1188" USERID="511" TEXT="He walked into the basement with the horror movie from the night before playing in his head." TIMESTAMP="2020-04-23"/>
+  <POSTS ID="1189" USERID="460" TEXT="Sometimes it is better to just walk away from things and go back to them later when youвЂ™re in a better frame of mind." TIMESTAMP="2021-09-13"/>
+  <POSTS ID="1190" USERID="408" TEXT="He had concluded that pigs must be able to fly in Hog Heaven." TIMESTAMP="2022-09-16"/>
+  <POSTS ID="1191" USERID="773" TEXT="Lets all be unique together until we realise we are all the same." TIMESTAMP="2021-10-04"/>
+  <POSTS ID="1192" USERID="302" TEXT="They were excited to see their first sloth." TIMESTAMP="2022-10-09"/>
+  <POSTS ID="1193" USERID="963" TEXT="The mysterious diary records the voice." TIMESTAMP="2021-10-29"/>
+  <POSTS ID="1194" USERID="493" TEXT="Joyce enjoyed eating pancakes with ketchup." TIMESTAMP="2022-08-17"/>
+  <POSTS ID="1195" USERID="958" TEXT="There are few things better in life than a slice of pie." TIMESTAMP="2021-09-12"/>
+  <POSTS ID="1196" USERID="976" TEXT="If you don&apos;t like toenails, you probably shouldn&apos;t look at your feet." TIMESTAMP="2020-10-11"/>
+  <POSTS ID="1197" USERID="468" TEXT="She looked into the mirror and saw another person." TIMESTAMP="2020-02-15"/>
+  <POSTS ID="1198" USERID="902" TEXT="The Japanese yen for commerce is still well-known." TIMESTAMP="2021-12-13"/>
+  <POSTS ID="1199" USERID="570" TEXT="He found the end of the rainbow and was surprised at what he found there." TIMESTAMP="2022-02-22"/>
+  <POSTS ID="1200" USERID="695" TEXT="IвЂ™m a living furnace." TIMESTAMP="2021-06-22"/>
+</dataset>
